@@ -13,3 +13,6 @@ stored in solution.json to play the game for you.
 
 If you want to play Wordle more than once a day, you can use game.py to
 generate endless games.
+
+[I also wrote a blog post](https://adamfontenot.com/post/how_i_defeated_wordle_with_python)
+describing my approach to solving Wordle.
