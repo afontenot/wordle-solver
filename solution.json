@@ -5,23 +5,17 @@
       "guess": "could",
       "result": {
         "0,0,0,0,0": {
-          "guess": "cigar",
+          "guess": "pygmy",
           "result": {
-            "0,0,0,0,0": {
+            "1,2,0,1,0": {
               "guess": "nymph"
-            },
-            "0,0,2,0,0": {
-              "guess": "pygmy"
             }
           }
         },
         "0,0,0,1,0": {
-          "guess": "cigar",
+          "guess": "lymph",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "lymph"
-            },
-            "0,0,1,0,0": {
+            "1,1,0,2,2": {
               "guess": "glyph"
             }
           }
@@ -33,46 +27,34 @@
               "guess": "humph"
             },
             "0,1,0,0,0": {
-              "guess": "cigar",
+              "guess": "fuzzy",
               "result": {
-                "0,0,0,0,0": {
-                  "guess": "fuzzy"
-                },
-                "0,0,2,0,0": {
+                "0,2,0,0,2": {
                   "guess": "buggy"
                 }
               }
             },
             "0,1,0,1,0": {
-              "guess": "rebut",
+              "guess": "puffy",
               "result": {
-                "0,0,0,1,0": {
-                  "guess": "puffy"
-                },
-                "0,0,0,1,1": {
+                "2,2,0,0,2": {
                   "guess": "putty"
                 }
               }
             },
             "0,1,0,2,0": {
-              "guess": "cigar",
+              "guess": "guppy",
               "result": {
-                "0,0,0,0,0": {
+                "0,2,2,2,2": {
                   "guess": "puppy"
-                },
-                "0,0,1,0,0": {
-                  "guess": "guppy"
                 }
               }
             },
             "0,1,2,0,0": {
-              "guess": "cigar",
+              "guess": "gummy",
               "result": {
-                "0,0,0,0,0": {
+                "0,2,2,2,2": {
                   "guess": "mummy"
-                },
-                "0,0,1,0,0": {
-                  "guess": "gummy"
                 }
               }
             },
@@ -80,16 +62,13 @@
               "guess": "jumpy"
             },
             "1,1,0,0,0": {
-              "guess": "flick",
+              "guess": "funky",
               "result": {
-                "0,0,0,0,0": {
+                "0,2,2,0,2": {
                   "guess": "bunny"
                 },
-                "2,0,0,0,0": {
+                "2,2,2,0,2": {
                   "guess": "funny"
-                },
-                "2,0,0,0,1": {
-                  "guess": "funky"
                 }
               }
             },
@@ -102,36 +81,30 @@
           }
         },
         "0,0,1,0,1": {
-          "guess": "humph",
+          "guess": "dumpy",
           "result": {
-            "0,2,0,0,0": {
+            "1,2,0,0,2": {
               "guess": "buddy"
             },
-            "0,2,0,1,0": {
+            "1,2,0,1,2": {
               "guess": "pudgy"
             },
-            "0,2,1,0,0": {
+            "1,2,1,0,2": {
               "guess": "muddy"
             },
-            "0,2,2,0,0": {
+            "2,2,2,0,2": {
               "guess": "dummy"
-            },
-            "0,2,2,2,0": {
-              "guess": "dumpy"
             }
           }
         },
         "0,0,1,1,0": {
-          "guess": "humph",
+          "guess": "bulky",
           "result": {
-            "0,2,0,0,0": {
-              "guess": "bulky"
-            },
-            "0,2,0,2,0": {
-              "guess": "pulpy"
-            },
-            "0,2,2,2,0": {
+            "0,2,1,0,2": {
               "guess": "lumpy"
+            },
+            "0,2,2,0,2": {
+              "guess": "pulpy"
             }
           }
         },
@@ -153,100 +126,82 @@
           "guess": "dully"
         },
         "0,0,2,0,0": {
-          "guess": "rebut",
+          "guess": "thump",
           "result": {
-            "0,0,0,1,1": {
-              "guess": "thump"
-            },
-            "0,0,1,1,1": {
+            "2,2,2,2,0": {
               "guess": "thumb"
             }
           }
         },
         "0,0,2,1,0": {
-          "guess": "flank",
+          "guess": "flunk",
           "result": {
-            "0,2,0,0,0": {
-              "guess": "rebut",
+            "0,2,2,0,0": {
+              "guess": "plump",
               "result": {
-                "0,0,0,1,0": {
-                  "guess": "plump"
-                },
-                "0,0,1,1,0": {
+                "2,2,2,2,0": {
                   "guess": "plumb"
                 }
               }
             },
-            "0,2,0,2,0": {
+            "0,2,2,2,0": {
               "guess": "blunt"
             },
-            "0,2,0,2,2": {
+            "0,2,2,2,2": {
               "guess": "plunk"
             },
-            "1,2,0,0,0": {
+            "1,2,2,0,0": {
               "guess": "bluff"
             },
-            "2,2,0,0,0": {
+            "2,2,2,0,0": {
               "guess": "fluff"
             },
-            "2,2,0,2,0": {
+            "2,2,2,2,0": {
               "guess": "flung"
-            },
-            "2,2,0,2,2": {
-              "guess": "flunk"
             }
           }
         },
         "0,1,0,0,0": {
-          "guess": "stink",
+          "guess": "thong",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "whoop"
-            },
-            "0,0,0,1,1": {
+            "0,0,2,1,0": {
               "guess": "known"
             },
-            "0,0,0,2,0": {
+            "0,2,2,0,0": {
+              "guess": "whoop"
+            },
+            "0,2,2,2,0": {
               "guess": "phony"
             },
-            "0,1,0,0,0": {
+            "1,2,2,0,0": {
               "guess": "photo"
-            },
-            "0,1,0,2,0": {
-              "guess": "thong"
             }
           }
         },
         "0,1,0,1,0": {
-          "guess": "booby",
+          "guess": "bloom",
           "result": {
-            "0,0,2,0,0": {
-              "guess": "flown"
-            },
-            "0,1,1,0,1": {
+            "0,1,0,2,0": {
               "guess": "nylon"
             },
-            "0,1,2,0,0": {
+            "0,2,2,0,0": {
+              "guess": "flown"
+            },
+            "0,2,2,2,2": {
               "guess": "gloom"
             },
-            "2,0,2,0,0": {
+            "2,2,2,0,0": {
               "guess": "blown"
-            },
-            "2,1,2,0,0": {
-              "guess": "bloom"
             }
           }
         },
         "0,1,0,1,2": {
-          "guess": "bench",
+          "guess": "blood",
           "result": {
-            "0,0,0,0,0": {
+            "0,2,2,2,2": {
               "guess": "flood"
             },
-            "2,0,0,0,0": {
-              "guess": "blood"
-            },
-            "2,0,1,0,0": {
+            "2,2,2,0,2": {
               "guess": "blond"
             }
           }
@@ -258,28 +213,25 @@
           "guess": "oddly"
         },
         "0,1,1,0,0": {
-          "guess": "bough",
+          "guess": "gumbo",
           "result": {
-            "0,1,1,0,0": {
-              "guess": "junto"
-            },
-            "0,1,1,0,2": {
+            "0,2,0,0,1": {
               "guess": "quoth"
             },
-            "0,1,1,1,1": {
-              "guess": "ought"
+            "0,2,0,0,2": {
+              "guess": "junto"
             },
-            "0,1,1,2,0": {
-              "guess": "outgo"
+            "0,2,1,1,1": {
+              "guess": "buxom"
             },
-            "1,1,1,0,0": {
+            "0,2,2,2,2": {
               "guess": "jumbo"
             },
-            "1,1,1,1,0": {
-              "guess": "gumbo"
+            "1,2,0,0,1": {
+              "guess": "ought"
             },
-            "2,1,1,0,0": {
-              "guess": "buxom"
+            "1,2,0,0,2": {
+              "guess": "outgo"
             }
           }
         },
@@ -287,13 +239,10 @@
           "guess": "outdo"
         },
         "0,1,1,1,0": {
-          "guess": "cigar",
+          "guess": "ghoul",
           "result": {
-            "0,0,0,0,0": {
+            "0,0,2,2,1": {
               "guess": "flout"
-            },
-            "0,0,1,0,0": {
-              "guess": "ghoul"
             }
           }
         },
@@ -304,12 +253,9 @@
               "guess": "month"
             },
             "0,2,0,0,2": {
-              "guess": "cigar",
+              "guess": "poppy",
               "result": {
-                "0,0,0,0,0": {
-                  "guess": "poppy"
-                },
-                "0,0,2,0,0": {
+                "0,2,0,0,2": {
                   "guess": "foggy"
                 }
               }
@@ -339,13 +285,10 @@
               "guess": "booth"
             },
             "2,2,2,0,2": {
-              "guess": "rebut",
+              "guess": "booty",
               "result": {
-                "0,0,1,0,0": {
+                "2,2,2,0,2": {
                   "guess": "booby"
-                },
-                "0,0,1,0,1": {
-                  "guess": "booty"
                 }
               }
             }
@@ -355,12 +298,9 @@
           "guess": "dowdy",
           "result": {
             "0,2,0,2,2": {
-              "guess": "cigar",
+              "guess": "moody",
               "result": {
-                "0,0,0,0,0": {
-                  "guess": "moody"
-                },
-                "0,0,1,0,0": {
+                "0,2,2,2,2": {
                   "guess": "goody"
                 }
               }
@@ -406,15 +346,12 @@
           "guess": "wight",
           "result": {
             "0,0,0,0,0": {
-              "guess": "feign",
+              "guess": "jolly",
               "result": {
-                "0,0,0,0,0": {
-                  "guess": "jolly"
-                },
-                "0,0,0,0,1": {
+                "0,2,0,2,2": {
                   "guess": "nobly"
                 },
-                "2,0,0,0,0": {
+                "0,2,2,2,2": {
                   "guess": "folly"
                 }
               }
@@ -437,12 +374,9 @@
           }
         },
         "0,2,0,2,1": {
-          "guess": "cigar",
+          "guess": "dolly",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "dolly"
-            },
-            "0,0,1,0,0": {
+            "1,2,0,2,2": {
               "guess": "godly"
             }
           }
@@ -454,39 +388,33 @@
           "guess": "mogul"
         },
         "0,2,2,0,0": {
-          "guess": "thumb",
+          "guess": "mouth",
           "result": {
-            "0,0,2,0,0": {
+            "0,2,2,0,0": {
               "guess": "young"
             },
-            "0,1,2,0,1": {
+            "0,2,2,0,2": {
               "guess": "bough"
             },
-            "1,0,2,0,0": {
+            "0,2,2,1,2": {
+              "guess": "tough"
+            },
+            "0,2,2,2,0": {
               "guess": "pouty"
             },
-            "1,0,2,1,0": {
-              "guess": "mount"
-            },
-            "1,1,2,0,0": {
+            "0,2,2,2,2": {
               "guess": "youth"
             },
-            "1,1,2,1,0": {
-              "guess": "mouth"
-            },
-            "2,1,2,0,0": {
-              "guess": "tough"
+            "2,2,2,1,0": {
+              "guess": "mount"
             }
           }
         },
         "0,2,2,0,1": {
-          "guess": "cigar",
+          "guess": "dough",
           "result": {
-            "0,0,0,0,0": {
+            "2,2,2,0,0": {
               "guess": "doubt"
-            },
-            "0,0,1,0,0": {
-              "guess": "dough"
             }
           }
         },
@@ -534,12 +462,9 @@
               "guess": "mucky"
             },
             "0,1,1,0,0": {
-              "guess": "humph",
+              "guess": "punch",
               "result": {
-                "0,2,0,1,2": {
-                  "guess": "punch"
-                },
-                "2,2,0,0,2": {
+                "0,2,2,2,2": {
                   "guess": "hunch"
                 }
               }
@@ -562,30 +487,24 @@
           }
         },
         "1,0,1,0,1": {
-          "guess": "rebut",
+          "guess": "duchy",
           "result": {
-            "0,0,0,1,0": {
-              "guess": "duchy"
-            },
-            "0,0,0,1,1": {
+            "2,2,1,1,0": {
               "guess": "dutch"
             }
           }
         },
         "1,0,1,1,0": {
-          "guess": "lying",
+          "guess": "mulch",
           "result": {
-            "1,0,0,0,0": {
-              "guess": "mulch"
+            "0,2,1,1,0": {
+              "guess": "lucky"
             },
-            "1,0,0,0,1": {
-              "guess": "gulch"
-            },
-            "2,0,0,1,0": {
+            "0,2,1,2,2": {
               "guess": "lunch"
             },
-            "2,1,0,0,0": {
-              "guess": "lucky"
+            "0,2,2,2,2": {
+              "guess": "gulch"
             }
           }
         },
@@ -596,27 +515,21 @@
           "guess": "knock"
         },
         "1,1,0,1,0": {
-          "guess": "rebut",
+          "guess": "block",
           "result": {
-            "0,0,0,0,0": {
+            "0,2,2,2,2": {
               "guess": "flock"
-            },
-            "0,0,1,0,0": {
-              "guess": "block"
             }
           }
         },
         "1,2,0,0,0": {
-          "guess": "rebut",
+          "guess": "botch",
           "result": {
-            "0,0,0,0,0": {
+            "0,2,0,2,2": {
               "guess": "pooch"
             },
-            "0,0,0,0,1": {
+            "0,2,2,2,2": {
               "guess": "notch"
-            },
-            "0,0,1,0,1": {
-              "guess": "botch"
             }
           }
         },
@@ -635,15 +548,12 @@
           }
         },
         "2,0,2,0,0": {
-          "guess": "stink",
+          "guess": "chuck",
           "result": {
-            "0,0,0,0,0": {
+            "2,2,2,0,0": {
               "guess": "chump"
             },
-            "0,0,0,0,2": {
-              "guess": "chuck"
-            },
-            "0,0,0,2,2": {
+            "2,2,2,0,2": {
               "guess": "chunk"
             }
           }
@@ -686,13 +596,10 @@
           "guess": "cloud"
         },
         "2,2,0,0,0": {
-          "guess": "sissy",
+          "guess": "comfy",
           "result": {
-            "0,0,0,0,0": {
+            "2,2,0,0,0": {
               "guess": "conch"
-            },
-            "0,0,0,0,2": {
-              "guess": "comfy"
             }
           }
         },
@@ -706,16 +613,13 @@
           "guess": "coyly"
         },
         "2,2,2,0,0": {
-          "guess": "bench",
+          "guess": "cough",
           "result": {
-            "0,0,0,1,2": {
-              "guess": "cough"
-            },
-            "0,0,0,2,2": {
-              "guess": "couch"
-            },
-            "0,0,1,1,0": {
+            "2,2,2,0,0": {
               "guess": "count"
+            },
+            "2,2,2,0,2": {
+              "guess": "couch"
             }
           }
         }
@@ -725,48 +629,42 @@
       "guess": "olden",
       "result": {
         "0,0,0,1,0": {
-          "guess": "depth",
+          "guess": "hefty",
           "result": {
-            "0,1,0,0,1": {
-              "guess": "check"
-            },
             "0,1,0,1,0": {
               "guess": "eject"
             },
-            "0,1,0,1,1": {
-              "guess": "theft"
-            },
-            "0,1,2,2,0": {
+            "0,1,0,2,2": {
               "guess": "empty"
             },
-            "0,2,0,0,0": {
-              "guess": "cigar",
+            "0,2,0,0,2": {
+              "guess": "geeky"
+            },
+            "0,2,0,2,2": {
+              "guess": "petty",
               "result": {
-                "0,0,0,0,0": {
-                  "guess": "beefy"
-                },
-                "0,0,1,0,0": {
-                  "guess": "geeky"
+                "0,2,2,2,2": {
+                  "guess": "jetty"
                 }
               }
             },
-            "0,2,0,0,2": {
+            "0,2,1,0,2": {
+              "guess": "beefy"
+            },
+            "1,1,0,0,0": {
+              "guess": "check"
+            },
+            "1,1,1,1,0": {
+              "guess": "theft"
+            },
+            "1,2,0,0,0": {
               "guess": "beech"
             },
-            "0,2,0,1,2": {
-              "guess": "fetch"
-            },
-            "0,2,0,2,0": {
-              "guess": "jetty"
-            },
-            "0,2,0,2,1": {
-              "guess": "hefty"
-            },
-            "0,2,0,2,2": {
+            "1,2,0,2,0": {
               "guess": "teeth"
             },
-            "0,2,1,2,0": {
-              "guess": "petty"
+            "1,2,1,1,0": {
+              "guess": "fetch"
             }
           }
         },
@@ -797,54 +695,42 @@
           "guess": "begun"
         },
         "0,0,0,2,0": {
-          "guess": "cigar",
+          "guess": "tweet",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "tweet"
-            },
-            "0,0,2,0,0": {
+            "0,0,1,2,2": {
               "guess": "beget"
             },
-            "2,0,0,0,0": {
+            "0,0,2,2,0": {
               "guess": "cheek"
             }
           }
         },
         "0,0,0,2,1": {
-          "guess": "rebut",
+          "guess": "tenet",
           "result": {
-            "0,1,0,1,2": {
+            "0,0,1,2,2": {
               "guess": "unmet"
-            },
-            "0,2,0,0,2": {
-              "guess": "tenet"
             }
           }
         },
         "0,0,0,2,2": {
-          "guess": "rebut",
+          "guess": "hymen",
           "result": {
-            "0,1,0,0,0": {
-              "guess": "hymen"
-            },
-            "0,1,0,1,0": {
+            "0,0,0,2,2": {
               "guess": "queen"
             }
           }
         },
         "0,0,1,1,0": {
-          "guess": "rebut",
+          "guess": "debug",
           "result": {
-            "0,2,0,0,0": {
+            "1,2,0,0,0": {
               "guess": "weedy"
             },
-            "0,2,0,0,1": {
+            "2,2,0,0,0": {
               "guess": "depth"
             },
-            "0,2,2,2,0": {
-              "guess": "debug"
-            },
-            "0,2,2,2,2": {
+            "2,2,2,2,0": {
               "guess": "debut"
             }
           }
@@ -853,30 +739,24 @@
           "guess": "needy"
         },
         "0,0,1,2,0": {
-          "guess": "rebut",
+          "guess": "duvet",
           "result": {
-            "0,1,0,0,1": {
-              "guess": "tweed"
-            },
-            "0,1,0,1,2": {
-              "guess": "duvet"
-            },
-            "0,1,2,0,0": {
+            "1,0,0,2,0": {
               "guess": "embed"
+            },
+            "1,0,0,2,1": {
+              "guess": "tweed"
             }
           }
         },
         "0,0,1,2,1": {
-          "guess": "awake",
+          "guess": "unwed",
           "result": {
-            "0,0,0,0,1": {
-              "guess": "unfed"
-            },
-            "0,0,0,1,1": {
+            "0,2,0,2,2": {
               "guess": "kneed"
             },
-            "0,1,0,0,1": {
-              "guess": "unwed"
+            "2,2,0,2,2": {
+              "guess": "unfed"
             }
           }
         },
@@ -893,13 +773,10 @@
               "guess": "leech"
             },
             "0,0,1,1,2": {
-              "guess": "cigar",
+              "guess": "leggy",
               "result": {
-                "0,0,0,0,0": {
+                "2,2,0,0,2": {
                   "guess": "lefty"
-                },
-                "0,0,2,0,0": {
-                  "guess": "leggy"
                 }
               }
             },
@@ -924,13 +801,10 @@
           }
         },
         "0,1,0,1,1": {
-          "guess": "rebut",
+          "guess": "newly",
           "result": {
-            "0,1,0,0,2": {
+            "1,1,0,2,0": {
               "guess": "knelt"
-            },
-            "0,2,0,0,0": {
-              "guess": "newly"
             }
           }
         },
@@ -938,12 +812,9 @@
           "guess": "berth",
           "result": {
             "0,1,0,0,0": {
-              "guess": "cigar",
+              "guess": "expel",
               "result": {
-                "0,0,0,0,0": {
-                  "guess": "expel"
-                },
-                "1,0,0,0,0": {
+                "2,2,0,2,2": {
                   "guess": "excel"
                 }
               }
@@ -952,23 +823,17 @@
               "guess": "wheel"
             },
             "0,2,0,0,0": {
-              "guess": "awake",
+              "guess": "jewel",
               "result": {
-                "0,0,0,0,1": {
+                "0,2,0,2,2": {
                   "guess": "level"
-                },
-                "0,1,0,0,1": {
-                  "guess": "jewel"
                 }
               }
             },
             "2,2,0,0,0": {
-              "guess": "evade",
+              "guess": "bezel",
               "result": {
-                "1,0,0,0,1": {
-                  "guess": "bezel"
-                },
-                "1,1,0,0,1": {
+                "2,2,0,2,2": {
                   "guess": "bevel"
                 }
               }
@@ -985,41 +850,32 @@
           "guess": "lumen"
         },
         "0,1,1,1,0": {
-          "guess": "rebut",
+          "guess": "dwell",
           "result": {
-            "0,1,0,0,0": {
-              "guess": "dwell"
-            },
-            "0,1,0,0,2": {
+            "2,2,2,2,0": {
               "guess": "dwelt"
             }
           }
         },
         "0,2,0,1,0": {
-          "guess": "focal",
+          "guess": "fleck",
           "result": {
-            "0,0,0,0,1": {
+            "0,2,2,0,0": {
               "guess": "elegy"
             },
-            "0,0,1,0,1": {
+            "0,2,2,2,0": {
               "guess": "elect"
             },
-            "1,0,1,0,1": {
+            "1,2,2,1,0": {
               "guess": "cleft"
-            },
-            "2,0,1,0,1": {
-              "guess": "fleck"
             }
           }
         },
         "0,2,0,2,0": {
-          "guess": "rebut",
+          "guess": "bleep",
           "result": {
-            "0,1,0,0,2": {
+            "0,2,2,2,0": {
               "guess": "fleet"
-            },
-            "0,1,1,0,0": {
-              "guess": "bleep"
             }
           }
         },
@@ -1027,67 +883,55 @@
           "guess": "blend"
         },
         "0,2,1,2,0": {
-          "guess": "cigar",
+          "guess": "clued",
           "result": {
-            "0,0,0,0,0": {
+            "0,2,0,2,2": {
               "guess": "bleed"
-            },
-            "2,0,0,0,0": {
-              "guess": "clued"
             }
           }
         },
         "1,0,0,1,0": {
-          "guess": "humph",
+          "guess": "gecko",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "gecko"
-            },
-            "0,0,0,1,0": {
+            "0,1,0,0,1": {
               "guess": "epoxy"
             },
-            "0,0,0,1,2": {
+            "0,1,1,0,1": {
               "guess": "epoch"
             },
-            "0,0,2,2,0": {
+            "0,2,0,0,2": {
               "guess": "tempo"
             }
           }
         },
         "1,0,0,1,1": {
-          "guess": "major",
+          "guess": "envoy",
           "result": {
-            "0,0,0,1,0": {
+            "1,1,1,2,0": {
+              "guess": "venom"
+            },
+            "2,1,0,1,2": {
               "guess": "ebony"
             },
-            "0,0,0,2,0": {
-              "guess": "envoy"
-            },
-            "0,0,2,2,0": {
+            "2,2,0,2,2": {
               "guess": "enjoy"
-            },
-            "1,0,0,2,0": {
-              "guess": "venom"
             }
           }
         },
         "1,0,0,2,0": {
-          "guess": "motor",
+          "guess": "covey",
           "result": {
-            "0,2,0,0,0": {
-              "guess": "covey"
+            "0,2,0,2,0": {
+              "guess": "totem"
             },
-            "0,2,0,1,0": {
+            "0,2,0,2,2": {
               "guess": "gooey"
             },
-            "0,2,1,0,0": {
-              "guess": "covet"
-            },
-            "1,2,1,0,0": {
+            "2,2,0,2,0": {
               "guess": "comet"
             },
-            "1,2,2,0,0": {
-              "guess": "totem"
+            "2,2,2,2,0": {
+              "guess": "covet"
             }
           }
         },
@@ -1106,40 +950,31 @@
           }
         },
         "1,0,0,2,2": {
-          "guess": "awake",
+          "guess": "woken",
           "result": {
-            "0,0,0,0,1": {
+            "0,2,0,2,2": {
               "guess": "coven"
             },
-            "0,0,0,1,1": {
+            "0,2,2,2,2": {
               "guess": "token"
             },
-            "0,1,0,0,1": {
-              "guess": "humph",
+            "2,2,0,2,2": {
+              "guess": "women",
               "result": {
-                "0,0,0,0,0": {
+                "2,2,0,2,2": {
                   "guess": "woven"
-                },
-                "0,0,2,0,0": {
-                  "guess": "women"
                 }
               }
-            },
-            "0,1,0,1,1": {
-              "guess": "woken"
             }
           }
         },
         "1,0,1,1,0": {
-          "guess": "rebut",
+          "guess": "detox",
           "result": {
-            "0,2,0,0,0": {
+            "2,2,0,2,0": {
               "guess": "decoy"
             },
-            "0,2,0,0,1": {
-              "guess": "detox"
-            },
-            "0,2,0,0,2": {
+            "2,2,1,2,0": {
               "guess": "depot"
             }
           }
@@ -1160,33 +995,27 @@
           "guess": "modem"
         },
         "1,1,0,1,0": {
-          "guess": "bench",
+          "guess": "hello",
           "result": {
-            "0,1,0,0,0": {
+            "0,1,1,1,1": {
               "guess": "extol"
             },
-            "0,2,0,0,1": {
-              "guess": "hello"
-            },
-            "0,2,0,1,0": {
-              "guess": "cello"
-            },
-            "2,2,0,0,0": {
+            "0,2,2,0,1": {
               "guess": "below"
+            },
+            "0,2,2,2,2": {
+              "guess": "cello"
             }
           }
         },
         "1,1,0,1,2": {
-          "guess": "humph",
+          "guess": "felon",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "felon"
-            },
-            "0,0,1,0,0": {
-              "guess": "melon"
-            },
-            "0,0,2,0,0": {
+            "0,2,1,2,2": {
               "guess": "lemon"
+            },
+            "0,2,2,2,2": {
+              "guess": "melon"
             }
           }
         },
@@ -1240,33 +1069,27 @@
       "guess": "could",
       "result": {
         "0,0,0,0,0": {
-          "guess": "repay",
+          "guess": "tepee",
           "result": {
-            "0,1,0,0,0": {
-              "guess": "theme"
-            },
-            "0,1,0,0,1": {
-              "guess": "thyme"
-            },
-            "0,2,0,0,0": {
+            "0,2,0,0,2": {
               "guess": "femme"
             },
-            "0,2,1,0,0": {
+            "0,2,1,0,2": {
               "guess": "penne"
             },
-            "0,2,2,0,0": {
-              "guess": "tepee"
+            "2,0,0,0,2": {
+              "guess": "thyme"
+            },
+            "2,1,0,1,2": {
+              "guess": "theme"
             }
           }
         },
         "0,0,0,0,1": {
-          "guess": "humph",
+          "guess": "hedge",
           "result": {
-            "0,0,0,0,0": {
+            "0,2,2,2,2": {
               "guess": "wedge"
-            },
-            "2,0,0,0,0": {
-              "guess": "hedge"
             }
           }
         },
@@ -1274,13 +1097,10 @@
           "guess": "melee"
         },
         "0,0,0,1,1": {
-          "guess": "cigar",
+          "guess": "ledge",
           "result": {
-            "0,0,0,0,0": {
+            "1,2,1,0,2": {
               "guess": "delve"
-            },
-            "0,0,1,0,0": {
-              "guess": "ledge"
             }
           }
         },
@@ -1288,18 +1108,15 @@
           "guess": "belle"
         },
         "0,0,1,0,0": {
-          "guess": "quiet",
+          "guess": "fugue",
           "result": {
-            "0,1,0,1,0": {
+            "0,0,0,2,2": {
               "guess": "venue"
             },
-            "0,2,0,1,0": {
-              "guess": "fugue"
-            },
-            "0,2,0,1,1": {
+            "0,2,0,0,2": {
               "guess": "butte"
             },
-            "2,2,0,1,0": {
+            "0,2,0,2,2": {
               "guess": "queue"
             }
           }
@@ -1311,12 +1128,9 @@
               "guess": "undue"
             },
             "0,1,0,2,0": {
-              "guess": "rebut",
+              "guess": "judge",
               "result": {
-                "0,1,0,1,0": {
-                  "guess": "judge"
-                },
-                "0,1,1,1,0": {
+                "0,2,2,2,2": {
                   "guess": "budge"
                 }
               }
@@ -1330,23 +1144,17 @@
           }
         },
         "0,0,1,1,0": {
-          "guess": "rebut",
+          "guess": "bulge",
           "result": {
-            "0,1,0,1,0": {
+            "0,2,1,2,2": {
               "guess": "lunge"
-            },
-            "0,1,1,1,0": {
-              "guess": "bulge"
             }
           }
         },
         "0,0,1,2,0": {
-          "guess": "cigar",
+          "guess": "tulle",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "tulle"
-            },
-            "0,0,2,0,0": {
+            "0,2,0,2,2": {
               "guess": "bugle"
             }
           }
@@ -1375,36 +1183,30 @@
           "guess": "elude"
         },
         "0,1,0,0,0": {
-          "guess": "pound",
+          "guess": "phone",
           "result": {
-            "0,1,0,0,0": {
+            "0,0,2,0,2": {
               "guess": "evoke"
             },
-            "0,1,0,1,0": {
+            "0,0,2,1,2": {
               "guess": "gnome"
             },
-            "0,1,0,2,0": {
+            "0,0,2,2,2": {
               "guess": "ozone"
-            },
-            "2,1,0,2,0": {
-              "guess": "phone"
             }
           }
         },
         "0,1,0,1,0": {
-          "guess": "bring",
+          "guess": "globe",
           "result": {
-            "0,0,0,0,0": {
+            "0,2,2,0,2": {
               "guess": "elope"
             },
-            "0,0,0,0,1": {
-              "guess": "glove"
-            },
-            "1,0,0,0,1": {
-              "guess": "globe"
-            },
-            "2,0,0,0,0": {
+            "0,2,2,1,2": {
               "guess": "bloke"
+            },
+            "2,2,2,0,2": {
+              "guess": "glove"
             }
           }
         },
@@ -1474,12 +1276,9 @@
           "guess": "choke"
         },
         "2,1,0,1,0": {
-          "guess": "evade",
+          "guess": "clone",
           "result": {
-            "0,0,0,0,2": {
-              "guess": "clone"
-            },
-            "0,1,0,0,2": {
+            "2,2,2,0,2": {
               "guess": "clove"
             }
           }
@@ -1493,33 +1292,27 @@
       "guess": "cloth",
       "result": {
         "0,0,0,0,0": {
-          "guess": "pound",
+          "guess": "spunk",
           "result": {
-            "0,0,1,0,0": {
-              "guess": "musky"
-            },
-            "0,0,1,0,1": {
-              "guess": "dusky"
-            },
-            "0,0,1,2,0": {
-              "guess": "sunny"
-            },
-            "0,0,2,1,0": {
-              "guess": "snuff"
-            },
-            "0,0,2,2,0": {
-              "guess": "cigar",
+            "1,0,1,0,1": {
+              "guess": "dusky",
               "result": {
-                "0,0,0,0,0": {
-                  "guess": "skunk"
-                },
-                "0,0,1,0,0": {
-                  "guess": "swung"
+                "0,2,2,2,2": {
+                  "guess": "musky"
                 }
               }
             },
-            "1,0,2,2,0": {
-              "guess": "spunk"
+            "2,0,1,2,0": {
+              "guess": "sunny"
+            },
+            "2,0,2,1,0": {
+              "guess": "snuff"
+            },
+            "2,0,2,2,0": {
+              "guess": "swung"
+            },
+            "2,0,2,2,2": {
+              "guess": "skunk"
             }
           }
         },
@@ -1553,12 +1346,9 @@
               "guess": "study"
             },
             "0,1,1,0,0": {
-              "guess": "cigar",
+              "guess": "stunt",
               "result": {
-                "0,0,0,0,0": {
-                  "guess": "stunt"
-                },
-                "0,0,1,0,0": {
+                "2,2,2,2,0": {
                   "guess": "stung"
                 }
               }
@@ -1589,21 +1379,18 @@
           }
         },
         "0,0,1,0,0": {
-          "guess": "sissy",
+          "guess": "synod",
           "result": {
-            "0,0,2,0,0": {
+            "1,0,0,2,0": {
               "guess": "bosom"
             },
-            "1,0,1,1,0": {
+            "1,0,2,1,0": {
               "guess": "bonus"
             },
-            "2,0,0,0,0": {
+            "2,0,1,1,2": {
               "guess": "sound"
             },
-            "2,0,0,0,1": {
-              "guess": "synod"
-            },
-            "2,0,0,0,2": {
+            "2,1,0,1,0": {
               "guess": "soggy"
             }
           }
@@ -1615,49 +1402,40 @@
           "guess": "south"
         },
         "0,0,2,0,0": {
-          "guess": "apron",
+          "guess": "snowy",
           "result": {
-            "0,0,0,1,0": {
-              "guess": "smoky"
-            },
-            "0,0,0,1,1": {
-              "guess": "snowy"
-            },
-            "0,0,0,2,2": {
-              "guess": "swoon"
-            },
-            "0,1,0,2,0": {
-              "guess": "swoop"
-            },
-            "0,1,0,2,1": {
-              "guess": "snoop"
-            },
-            "0,2,0,2,0": {
-              "guess": "awake",
+            "2,0,2,0,0": {
+              "guess": "spook",
               "result": {
-                "0,0,0,0,0": {
+                "2,2,2,2,0": {
                   "guess": "spoof"
-                },
-                "0,0,0,1,0": {
-                  "guess": "spook"
                 }
               }
             },
-            "0,2,0,2,2": {
+            "2,0,2,0,2": {
+              "guess": "smoky"
+            },
+            "2,0,2,1,0": {
+              "guess": "swoop"
+            },
+            "2,1,2,0,0": {
               "guess": "spoon"
+            },
+            "2,1,2,1,0": {
+              "guess": "swoon"
+            },
+            "2,2,2,0,0": {
+              "guess": "snoop"
             }
           }
         },
         "0,0,2,0,1": {
-          "guess": "stink",
+          "guess": "showy",
           "result": {
-            "2,0,0,0,0": {
-              "guess": "showy"
-            },
-            "2,0,0,0,2": {
+            "2,2,2,0,0": {
               "guess": "shook"
             },
-            "2,0,0,1,0": {
+            "2,2,2,2,0": {
               "guess": "shown"
             }
           }
@@ -1689,13 +1467,10 @@
           }
         },
         "0,0,2,1,1": {
-          "guess": "rebut",
+          "guess": "shout",
           "result": {
-            "0,0,0,0,2": {
+            "2,2,2,0,2": {
               "guess": "shoot"
-            },
-            "0,0,0,2,2": {
-              "guess": "shout"
             }
           }
         },
@@ -1706,22 +1481,19 @@
           "guess": "sooth"
         },
         "0,1,0,0,0": {
-          "guess": "belly",
+          "guess": "sully",
           "result": {
-            "0,0,0,2,0": {
-              "guess": "skulk"
-            },
-            "0,0,1,1,0": {
+            "1,2,1,1,0": {
               "guess": "lupus"
             },
-            "0,0,1,2,0": {
+            "2,1,0,2,0": {
+              "guess": "skulk"
+            },
+            "2,1,1,2,0": {
               "guess": "skull"
             },
-            "0,0,2,0,2": {
+            "2,2,2,0,2": {
               "guess": "sulky"
-            },
-            "0,0,2,2,2": {
-              "guess": "sully"
             }
           }
         },
@@ -1738,19 +1510,16 @@
           "guess": "stool"
         },
         "0,2,0,0,0": {
-          "guess": "lying",
+          "guess": "slunk",
           "result": {
-            "1,0,0,0,0": {
+            "2,2,0,0,0": {
+              "guess": "slyly"
+            },
+            "2,2,2,0,0": {
               "guess": "slump"
             },
-            "1,0,0,2,0": {
-              "guess": "slunk"
-            },
-            "1,0,0,2,2": {
+            "2,2,2,2,0": {
               "guess": "slung"
-            },
-            "1,1,0,0,0": {
-              "guess": "slyly"
             }
           }
         },
@@ -1761,13 +1530,10 @@
           "guess": "sloth"
         },
         "1,0,0,0,0": {
-          "guess": "rebut",
+          "guess": "mucus",
           "result": {
-            "0,0,0,1,0": {
+            "0,1,1,1,1": {
               "guess": "snuck"
-            },
-            "0,0,0,2,0": {
-              "guess": "mucus"
             }
           }
         },
@@ -1781,16 +1547,13 @@
           "guess": "focus"
         },
         "1,0,2,0,0": {
-          "guess": "humph",
+          "guess": "scoff",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "scoff"
-            },
-            "0,0,0,1,0": {
-              "guess": "scoop"
-            },
-            "0,0,1,0,0": {
+            "2,1,2,0,0": {
               "guess": "smock"
+            },
+            "2,2,2,0,0": {
+              "guess": "scoop"
             }
           }
         },
@@ -1798,13 +1561,10 @@
           "guess": "shock"
         },
         "1,0,2,1,0": {
-          "guess": "rebut",
+          "guess": "scout",
           "result": {
-            "0,0,0,0,1": {
+            "2,1,2,0,1": {
               "guess": "stock"
-            },
-            "0,0,0,2,2": {
-              "guess": "scout"
             }
           }
         },
@@ -1812,13 +1572,10 @@
           "guess": "locus"
         },
         "1,1,2,0,0": {
-          "guess": "awake",
+          "guess": "scowl",
           "result": {
-            "0,0,0,0,0": {
+            "2,2,2,0,1": {
               "guess": "scold"
-            },
-            "0,1,0,0,0": {
-              "guess": "scowl"
             }
           }
         }
@@ -1828,44 +1585,35 @@
       "guess": "spelt",
       "result": {
         "1,0,1,0,0": {
-          "guess": "rebut",
+          "guess": "bused",
           "result": {
-            "0,1,0,0,0": {
+            "0,0,2,2,0": {
               "guess": "nosey"
-            },
-            "0,1,1,1,0": {
-              "guess": "bused"
             }
           }
         },
         "1,0,1,0,1": {
-          "guess": "batty",
+          "guess": "testy",
           "result": {
-            "0,0,0,2,2": {
+            "0,2,2,2,2": {
               "guess": "zesty"
             },
-            "0,0,1,1,0": {
+            "1,1,1,1,0": {
               "guess": "ethos"
             },
-            "0,0,1,2,2": {
-              "guess": "testy"
-            },
-            "0,0,2,0,0": {
+            "1,2,1,1,0": {
               "guess": "fetus"
             }
           }
         },
         "1,0,1,0,2": {
-          "guess": "rebut",
+          "guess": "unset",
           "result": {
-            "0,1,0,0,2": {
-              "guess": "onset"
-            },
-            "0,1,0,1,2": {
-              "guess": "unset"
-            },
-            "0,2,1,0,2": {
+            "0,0,2,2,2": {
               "guess": "beset"
+            },
+            "0,2,2,2,2": {
+              "guess": "onset"
             }
           }
         },
@@ -1879,23 +1627,17 @@
           "guess": "upset"
         },
         "2,0,1,0,0": {
-          "guess": "humph",
+          "guess": "semen",
           "result": {
-            "0,0,0,0,0": {
+            "2,2,0,2,2": {
               "guess": "seven"
-            },
-            "0,0,2,0,0": {
-              "guess": "semen"
             }
           }
         },
         "2,0,2,0,0": {
-          "guess": "rebut",
+          "guess": "sheen",
           "result": {
-            "0,1,0,0,0": {
-              "guess": "sheen"
-            },
-            "0,2,0,0,0": {
+            "2,0,2,1,0": {
               "guess": "seedy"
             }
           }
@@ -1904,16 +1646,13 @@
           "guess": "steed"
         },
         "2,0,2,0,2": {
-          "guess": "bench",
+          "guess": "sheet",
           "result": {
-            "0,1,0,0,0": {
-              "guess": "sweet"
-            },
-            "0,1,0,0,1": {
-              "guess": "sheet"
-            },
-            "0,1,1,1,0": {
+            "2,0,2,0,2": {
               "guess": "scent"
+            },
+            "2,0,2,2,2": {
+              "guess": "sweet"
             }
           }
         },
@@ -1950,13 +1689,10 @@
           "guess": "setup"
         },
         "2,1,2,0,0": {
-          "guess": "humph",
+          "guess": "sheep",
           "result": {
-            "0,0,0,1,0": {
+            "2,0,2,2,2": {
               "guess": "sweep"
-            },
-            "1,0,0,1,1": {
-              "guess": "sheep"
             }
           }
         },
@@ -1973,16 +1709,13 @@
           "guess": "slept"
         },
         "2,2,2,0,0": {
-          "guess": "model",
+          "guess": "speed",
           "result": {
-            "0,0,0,1,0": {
+            "2,2,2,0,0": {
               "guess": "speck"
             },
-            "0,0,1,1,0": {
+            "2,2,2,0,2": {
               "guess": "spend"
-            },
-            "0,0,1,2,0": {
-              "guess": "speed"
             }
           }
         },
@@ -1998,34 +1731,25 @@
       "guess": "cloth",
       "result": {
         "0,0,0,0,0": {
-          "guess": "cigar",
+          "guess": "segue",
           "result": {
-            "0,0,0,0,0": {
+            "1,1,0,2,2": {
               "guess": "ensue"
-            },
-            "0,0,2,0,0": {
-              "guess": "segue"
             }
           }
         },
         "0,0,2,0,0": {
-          "guess": "humph",
+          "guess": "spoke",
           "result": {
-            "0,0,0,1,0": {
-              "guess": "spoke"
-            },
-            "0,0,1,0,0": {
+            "2,0,2,2,2": {
               "guess": "smoke"
             }
           }
         },
         "0,0,2,0,1": {
-          "guess": "evade",
+          "guess": "shone",
           "result": {
-            "0,0,0,0,2": {
-              "guess": "shone"
-            },
-            "0,1,0,0,2": {
+            "2,2,2,0,2": {
               "guess": "shove"
             }
           }
@@ -2063,12 +1787,9 @@
           "guess": "scene"
         },
         "1,0,2,0,0": {
-          "guess": "humph",
+          "guess": "scone",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "scone"
-            },
-            "0,0,0,2,0": {
+            "2,2,2,0,2": {
               "guess": "scope"
             }
           }
@@ -2082,13 +1803,10 @@
           "guess": "gypsy"
         },
         "0,0,0,2,1": {
-          "guess": "sissy",
+          "guess": "shush",
           "result": {
-            "0,0,2,2,2": {
+            "1,1,1,2,1": {
               "guess": "hussy"
-            },
-            "2,0,0,2,0": {
-              "guess": "shush"
             }
           }
         },
@@ -2096,24 +1814,18 @@
           "guess": "joust"
         },
         "0,0,1,2,1": {
-          "guess": "rebut",
+          "guess": "mossy",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "mossy"
-            },
-            "0,0,1,0,0": {
+            "0,2,2,2,2": {
               "guess": "bossy"
             }
           }
         },
         "0,0,2,2,0": {
-          "guess": "cigar",
+          "guess": "ghost",
           "result": {
-            "0,0,0,0,0": {
+            "0,0,2,2,2": {
               "guess": "boost"
-            },
-            "0,0,1,0,0": {
-              "guess": "ghost"
             }
           }
         },
@@ -2121,12 +1833,9 @@
           "guess": "lousy"
         },
         "0,2,0,2,0": {
-          "guess": "rebut",
+          "guess": "plush",
           "result": {
-            "0,0,0,1,0": {
-              "guess": "plush"
-            },
-            "0,0,1,1,0": {
+            "0,2,2,2,2": {
               "guess": "blush"
             }
           }
@@ -2173,13 +1882,10 @@
           "guess": "bless"
         },
         "1,0,0,1,0": {
-          "guess": "rebut",
+          "guess": "welsh",
           "result": {
-            "0,1,0,0,0": {
+            "0,1,1,2,2": {
               "guess": "flesh"
-            },
-            "0,2,0,0,0": {
-              "guess": "welsh"
             }
           }
         }
@@ -2189,16 +1895,13 @@
       "guess": "cloth",
       "result": {
         "0,0,0,0,0": {
-          "guess": "stink",
+          "guess": "sense",
           "result": {
-            "1,0,0,0,0": {
+            "0,2,0,2,2": {
               "guess": "geese"
             },
-            "1,0,0,1,0": {
+            "0,2,2,2,2": {
               "guess": "dense"
-            },
-            "2,0,0,1,0": {
-              "guess": "sense"
             }
           }
         },
@@ -2209,16 +1912,13 @@
           "guess": "these"
         },
         "0,0,1,0,0": {
-          "guess": "rebut",
+          "guess": "mouse",
           "result": {
-            "0,1,0,0,0": {
-              "guess": "posse"
-            },
-            "0,1,0,1,0": {
-              "guess": "mouse"
-            },
-            "0,1,1,0,0": {
+            "0,1,0,2,2": {
               "guess": "obese"
+            },
+            "0,2,0,2,2": {
+              "guess": "posse"
             }
           }
         },
@@ -2269,38 +1969,35 @@
       "guess": "hotly",
       "result": {
         "0,0,0,0,0": {
-          "guess": "civic",
+          "guess": "cumin",
           "result": {
             "0,0,0,2,0": {
-              "guess": "humph",
+              "guess": "vivid"
+            },
+            "0,0,1,2,1": {
+              "guess": "minim"
+            },
+            "0,1,0,2,1": {
+              "guess": "undid",
               "result": {
-                "0,1,0,0,0": {
-                  "guess": "undid"
-                },
-                "0,1,0,1,0": {
+                "2,2,0,2,0": {
                   "guess": "unzip"
                 }
               }
             },
-            "0,0,0,2,2": {
-              "guess": "pubic"
-            },
-            "0,1,0,1,0": {
+            "0,2,0,1,1": {
               "guess": "fungi"
             },
-            "0,2,0,2,0": {
-              "guess": "minim"
-            },
-            "0,2,0,2,2": {
+            "1,0,2,2,0": {
               "guess": "mimic"
             },
-            "0,2,2,2,0": {
-              "guess": "vivid"
+            "1,2,0,2,0": {
+              "guess": "pubic"
             },
             "2,0,0,2,0": {
-              "guess": "cumin"
+              "guess": "civic"
             },
-            "2,0,0,2,2": {
+            "2,2,0,2,0": {
               "guess": "cubic"
             }
           }
@@ -2312,26 +2009,20 @@
           "guess": "pound",
           "result": {
             "0,0,0,0,0": {
-              "guess": "focal",
+              "guess": "fizzy",
               "result": {
-                "1,0,0,0,0": {
+                "1,2,0,0,2": {
                   "guess": "jiffy"
-                },
-                "2,0,0,0,0": {
-                  "guess": "fizzy"
                 }
               }
             },
             "0,0,0,0,1": {
-              "guess": "grade",
+              "guess": "biddy",
               "result": {
-                "0,0,0,1,0": {
+                "0,2,1,1,2": {
                   "guess": "dizzy"
                 },
-                "0,0,0,2,0": {
-                  "guess": "biddy"
-                },
-                "2,0,0,2,0": {
+                "0,2,2,2,2": {
                   "guess": "giddy"
                 }
               }
@@ -2340,13 +2031,10 @@
               "guess": "kinky"
             },
             "0,0,0,1,1": {
-              "guess": "cigar",
+              "guess": "dingy",
               "result": {
-                "0,2,0,0,0": {
+                "1,2,2,0,2": {
                   "guess": "windy"
-                },
-                "0,2,1,0,0": {
-                  "guess": "dingy"
                 }
               }
             },
@@ -2357,12 +2045,9 @@
               "guess": "wimpy"
             },
             "2,0,0,0,0": {
-              "guess": "cigar",
+              "guess": "piggy",
               "result": {
-                "0,2,2,0,0": {
-                  "guess": "piggy"
-                },
-                "1,2,0,0,0": {
+                "2,2,0,0,2": {
                   "guess": "picky"
                 }
               }
@@ -2373,28 +2058,25 @@
           }
         },
         "0,0,0,1,0": {
-          "guess": "vouch",
+          "guess": "livid",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "lipid"
-            },
-            "0,0,1,0,0": {
+            "1,0,0,2,0": {
               "guess": "pupil"
             },
-            "0,0,1,1,0": {
-              "guess": "lucid"
-            },
-            "0,0,2,0,0": {
+            "1,0,0,2,2": {
               "guess": "fluid"
             },
-            "1,0,0,0,0": {
-              "guess": "livid"
+            "1,2,1,2,0": {
+              "guess": "vigil"
             },
-            "1,0,0,1,0": {
+            "1,2,2,2,0": {
               "guess": "civil"
             },
-            "2,0,0,0,0": {
-              "guess": "vigil"
+            "2,0,0,2,2": {
+              "guess": "lucid"
+            },
+            "2,2,0,2,2": {
+              "guess": "lipid"
             }
           }
         },
@@ -2402,13 +2084,10 @@
           "guess": "vinyl"
         },
         "0,0,0,1,2": {
-          "guess": "awake",
+          "guess": "milky",
           "result": {
-            "0,0,0,0,0": {
+            "1,2,2,0,2": {
               "guess": "filmy"
-            },
-            "0,0,0,2,0": {
-              "guess": "milky"
             }
           }
         },
@@ -2419,13 +2098,10 @@
           "guess": "embed",
           "result": {
             "0,0,0,0,0": {
-              "guess": "awake",
+              "guess": "willy",
               "result": {
-                "0,0,0,0,0": {
+                "0,2,2,2,2": {
                   "guess": "filly"
-                },
-                "0,1,0,0,0": {
-                  "guess": "willy"
                 }
               }
             },
@@ -2444,46 +2120,37 @@
           }
         },
         "0,0,1,0,0": {
-          "guess": "rebut",
+          "guess": "timid",
           "result": {
-            "0,0,0,0,1": {
-              "guess": "timid"
-            },
-            "0,0,0,0,2": {
-              "guess": "digit"
-            },
-            "0,0,0,1,1": {
-              "guess": "tunic"
-            },
-            "0,0,0,1,2": {
+            "1,0,0,2,0": {
               "guess": "unfit"
             },
-            "0,0,0,2,2": {
+            "1,1,0,1,0": {
               "guess": "input"
+            },
+            "1,2,0,2,1": {
+              "guess": "digit"
+            },
+            "2,0,0,2,0": {
+              "guess": "tunic"
             }
           }
         },
         "0,0,1,0,2": {
-          "guess": "humph",
+          "guess": "fifty",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "fifty"
-            },
-            "0,0,1,0,0": {
+            "0,2,0,2,2": {
               "guess": "minty"
             }
           }
         },
         "0,0,1,1,0": {
-          "guess": "rebut",
+          "guess": "limit",
           "result": {
-            "0,0,0,0,2": {
-              "guess": "limit"
-            },
-            "0,0,0,1,1": {
+            "1,0,0,2,1": {
               "guess": "tulip"
             },
-            "0,0,0,1,2": {
+            "1,0,0,2,2": {
               "guess": "unlit"
             }
           }
@@ -2509,53 +2176,44 @@
           "guess": "until"
         },
         "0,1,0,0,0": {
-          "guess": "unfed",
+          "guess": "inbox",
           "result": {
-            "0,0,0,0,1": {
-              "guess": "widow"
-            },
-            "0,0,0,0,2": {
+            "1,0,0,1,0": {
               "guess": "ovoid"
             },
-            "0,1,0,0,0": {
-              "guess": "bingo"
+            "1,0,0,2,0": {
+              "guess": "widow"
             },
-            "0,1,0,0,1": {
+            "1,1,0,1,0": {
               "guess": "dingo"
             },
-            "0,2,0,0,0": {
-              "guess": "inbox"
+            "1,1,1,1,0": {
+              "guess": "bingo"
             }
           }
         },
         "0,1,0,1,0": {
-          "guess": "cigar",
+          "guess": "limbo",
           "result": {
-            "0,1,1,0,0": {
+            "1,1,0,0,2": {
               "guess": "igloo"
             },
-            "0,2,0,0,0": {
-              "guess": "limbo"
-            },
-            "0,2,1,0,0": {
+            "2,2,0,0,2": {
               "guess": "lingo"
             }
           }
         },
         "0,1,1,0,0": {
-          "guess": "bench",
+          "guess": "bigot",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "pivot"
-            },
-            "0,0,1,0,0": {
+            "0,1,2,2,2": {
               "guess": "ingot"
             },
-            "0,0,2,0,0": {
+            "0,2,0,1,1": {
               "guess": "pinto"
             },
-            "2,0,0,0,0": {
-              "guess": "bigot"
+            "0,2,0,2,2": {
+              "guess": "pivot"
             }
           }
         },
@@ -2563,61 +2221,49 @@
           "guess": "pilot"
         },
         "0,1,2,0,0": {
-          "guess": "cigar",
+          "guess": "optic",
           "result": {
-            "0,2,0,0,0": {
+            "1,0,2,1,0": {
               "guess": "ditto"
-            },
-            "1,1,0,0,0": {
-              "guess": "optic"
             }
           }
         },
         "0,2,0,0,0": {
-          "guess": "colon",
+          "guess": "comic",
           "result": {
-            "1,2,0,0,1": {
+            "0,2,0,2,2": {
               "guess": "ionic"
             },
-            "2,2,0,0,0": {
-              "guess": "comic"
-            },
-            "2,2,0,0,1": {
+            "2,2,0,2,2": {
               "guess": "conic"
             }
           }
         },
         "0,2,0,1,0": {
-          "guess": "cigar",
+          "guess": "login",
           "result": {
-            "0,1,0,0,0": {
+            "1,2,0,2,0": {
               "guess": "folio"
             },
-            "0,1,2,0,0": {
-              "guess": "login"
-            },
-            "1,1,2,0,0": {
+            "2,2,2,2,0": {
               "guess": "logic"
             }
           }
         },
         "0,2,1,0,0": {
-          "guess": "panic",
+          "guess": "toxin",
           "result": {
-            "0,0,0,2,0": {
+            "1,2,0,2,0": {
               "guess": "vomit"
             },
-            "0,0,0,2,2": {
-              "guess": "toxic"
+            "2,2,0,2,0": {
+              "guess": "topic"
             },
-            "0,0,1,2,0": {
-              "guess": "toxin"
-            },
-            "0,0,2,2,2": {
+            "2,2,0,2,1": {
               "guess": "tonic"
             },
-            "1,0,0,2,2": {
-              "guess": "topic"
+            "2,2,2,2,0": {
+              "guess": "toxic"
             }
           }
         },
@@ -2628,12 +2274,9 @@
           "guess": "dwarf",
           "result": {
             "0,0,0,0,0": {
-              "guess": "cigar",
+              "guess": "pinch",
               "result": {
-                "1,2,0,0,0": {
-                  "guess": "pinch"
-                },
-                "2,2,0,0,0": {
+                "0,2,2,2,2": {
                   "guess": "cinch"
                 }
               }
@@ -2653,12 +2296,9 @@
               "guess": "fifth"
             },
             "1,0,0,0,1": {
-              "guess": "humph",
+              "guess": "fight",
               "result": {
-                "1,0,0,0,1": {
-                  "guess": "fight"
-                },
-                "1,0,1,0,1": {
+                "0,2,2,2,2": {
                   "guess": "might"
                 }
               }
@@ -2684,12 +2324,9 @@
           "guess": "itchy"
         },
         "1,0,1,1,0": {
-          "guess": "cigar",
+          "guess": "filth",
           "result": {
-            "0,2,0,0,0": {
-              "guess": "filth"
-            },
-            "0,2,2,0,0": {
+            "0,2,1,1,1": {
               "guess": "light"
             }
           }
@@ -2732,30 +2369,24 @@
       "guess": "lipid",
       "result": {
         "0,0,0,2,0": {
-          "guess": "cigar",
+          "guess": "befit",
           "result": {
-            "0,1,0,0,0": {
-              "guess": "befit"
-            },
-            "0,1,2,0,0": {
-              "guess": "begin"
-            },
-            "1,1,0,0,0": {
+            "0,1,0,2,1": {
               "guess": "ethic"
+            },
+            "2,2,0,2,0": {
+              "guess": "begin"
             }
           }
         },
         "0,0,0,2,1": {
-          "guess": "model",
+          "guess": "medic",
           "result": {
-            "0,0,1,1,0": {
+            "0,2,1,2,0": {
               "guess": "debit"
             },
-            "1,0,1,1,0": {
+            "1,2,1,2,0": {
               "guess": "denim"
-            },
-            "2,0,2,1,0": {
-              "guess": "medic"
             }
           }
         },
@@ -2778,30 +2409,24 @@
           "guess": "inept"
         },
         "0,2,0,0,0": {
-          "guess": "cigar",
+          "guess": "vixen",
           "result": {
-            "0,2,0,0,0": {
-              "guess": "vixen"
-            },
-            "0,2,1,0,0": {
-              "guess": "given"
-            },
-            "0,2,2,0,0": {
+            "0,2,0,1,0": {
               "guess": "eight"
+            },
+            "1,2,0,2,2": {
+              "guess": "given"
             }
           }
         },
         "0,2,0,0,1": {
-          "guess": "focal",
+          "guess": "video",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "widen"
-            },
-            "0,0,2,0,0": {
+            "0,2,1,2,0": {
               "guess": "dicey"
             },
-            "0,1,0,0,0": {
-              "guess": "video"
+            "0,2,2,2,0": {
+              "guess": "widen"
             }
           }
         },
@@ -2809,26 +2434,20 @@
           "guess": "fiend"
         },
         "0,2,1,0,0": {
-          "guess": "rebut",
+          "guess": "bicep",
           "result": {
-            "0,1,0,0,0": {
-              "guess": "piney"
-            },
-            "0,1,0,0,1": {
+            "0,2,0,1,1": {
               "guess": "piety"
             },
-            "0,1,1,0,0": {
-              "guess": "bicep"
+            "0,2,0,2,1": {
+              "guess": "piney"
             }
           }
         },
         "1,0,0,2,0": {
-          "guess": "rebut",
+          "guess": "elfin",
           "result": {
-            "0,1,0,0,0": {
-              "guess": "elfin"
-            },
-            "0,2,0,0,0": {
+            "1,1,0,2,0": {
               "guess": "helix"
             }
           }
@@ -2863,16 +2482,13 @@
           "guess": "pixel"
         },
         "2,2,0,0,0": {
-          "guess": "stink",
+          "guess": "liken",
           "result": {
-            "0,0,1,0,0": {
+            "2,2,0,2,0": {
               "guess": "libel"
             },
-            "0,0,1,1,0": {
+            "2,2,0,2,2": {
               "guess": "linen"
-            },
-            "0,0,1,1,1": {
-              "guess": "liken"
             }
           }
         }
@@ -2882,12 +2498,9 @@
       "guess": "lingo",
       "result": {
         "0,1,0,0,0": {
-          "guess": "cigar",
+          "guess": "imbue",
           "result": {
-            "0,1,0,0,0": {
-              "guess": "imbue"
-            },
-            "2,1,0,0,0": {
+            "1,0,0,1,2": {
               "guess": "cutie"
             }
           }
@@ -2919,12 +2532,9 @@
           }
         },
         "0,2,0,0,1": {
-          "guess": "rebut",
+          "guess": "diode",
           "result": {
-            "0,1,0,0,0": {
-              "guess": "diode"
-            },
-            "0,1,1,0,0": {
+            "0,2,2,0,2": {
               "guess": "biome"
             }
           }
@@ -2933,35 +2543,26 @@
           "guess": "midge"
         },
         "0,2,1,0,0": {
-          "guess": "humph",
+          "guess": "niche",
           "result": {
-            "0,0,0,0,0": {
+            "2,2,1,0,2": {
               "guess": "niece"
-            },
-            "1,0,0,0,1": {
-              "guess": "niche"
             }
           }
         },
         "0,2,2,0,0": {
-          "guess": "humph",
+          "guess": "mince",
           "result": {
-            "0,0,0,0,0": {
+            "0,2,2,2,2": {
               "guess": "wince"
-            },
-            "0,0,1,0,0": {
-              "guess": "mince"
             }
           }
         },
         "0,2,2,2,0": {
-          "guess": "rebut",
+          "guess": "binge",
           "result": {
-            "0,1,0,0,0": {
+            "0,2,2,2,2": {
               "guess": "hinge"
-            },
-            "0,1,1,0,0": {
-              "guess": "binge"
             }
           }
         },
@@ -2969,16 +2570,13 @@
           "guess": "belie"
         },
         "1,2,0,0,0": {
-          "guess": "death",
+          "guess": "bible",
           "result": {
-            "0,1,0,0,0": {
-              "guess": "bible"
-            },
-            "0,1,0,1,0": {
-              "guess": "title"
-            },
-            "1,1,0,1,0": {
+            "0,2,0,1,2": {
               "guess": "tilde"
+            },
+            "0,2,0,2,2": {
+              "guess": "title"
             }
           }
         },
@@ -3006,23 +2604,17 @@
           "guess": "music"
         },
         "1,0,0,2,0": {
-          "guess": "cigar",
+          "guess": "ficus",
           "result": {
-            "0,2,0,0,0": {
+            "0,2,0,2,2": {
               "guess": "minus"
-            },
-            "1,2,0,0,0": {
-              "guess": "ficus"
             }
           }
         },
         "1,0,1,0,0": {
-          "guess": "cigar",
+          "guess": "bison",
           "result": {
-            "0,2,0,0,0": {
-              "guess": "bison"
-            },
-            "1,2,0,0,0": {
+            "0,2,2,1,0": {
               "guess": "disco"
             }
           }
@@ -3034,12 +2626,9 @@
           "guess": "fishy"
         },
         "2,0,0,0,0": {
-          "guess": "awake",
+          "guess": "silly",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "silly"
-            },
-            "0,0,0,2,0": {
+            "2,2,2,0,2": {
               "guess": "silky"
             }
           }
@@ -3054,12 +2643,9 @@
           "guess": "squib"
         },
         "2,0,1,0,0": {
-          "guess": "cigar",
+          "guess": "solid",
           "result": {
-            "0,1,0,0,0": {
-              "guess": "solid"
-            },
-            "1,1,0,0,0": {
+            "2,2,0,2,0": {
               "guess": "sonic"
             }
           }
@@ -3082,39 +2668,33 @@
       }
     },
     "0,0,1,1,1": {
-      "guess": "stink",
+      "guess": "sinew",
       "result": {
-        "1,1,1,0,0": {
+        "1,1,0,2,0": {
           "guess": "islet"
         },
-        "2,0,1,0,2": {
+        "2,1,0,1,0": {
           "guess": "sheik"
         },
-        "2,0,1,1,0": {
-          "guess": "sinew"
-        },
-        "2,2,1,1,0": {
+        "2,1,1,1,0": {
           "guess": "stein"
         }
       }
     },
     "0,0,1,1,2": {
-      "guess": "using",
+      "guess": "singe",
       "result": {
-        "0,1,1,0,0": {
+        "1,1,0,0,2": {
+          "guess": "issue"
+        },
+        "2,2,0,0,2": {
           "guess": "sieve"
         },
-        "0,1,1,0,1": {
+        "2,2,0,2,2": {
           "guess": "siege"
         },
-        "0,1,1,1,0": {
+        "2,2,2,0,2": {
           "guess": "since"
-        },
-        "0,1,1,1,1": {
-          "guess": "singe"
-        },
-        "1,2,1,0,0": {
-          "guess": "issue"
         }
       }
     },
@@ -3145,41 +2725,32 @@
       "guess": "blunt",
       "result": {
         "0,0,0,0,0": {
-          "guess": "dwarf",
+          "guess": "whiff",
           "result": {
-            "0,0,0,0,0": {
+            "0,0,2,0,0": {
+              "guess": "idiom"
+            },
+            "0,2,2,0,0": {
               "guess": "chick"
             },
-            "0,1,0,0,0": {
+            "2,2,2,0,0": {
               "guess": "which"
-            },
-            "0,1,0,0,2": {
-              "guess": "whiff"
-            },
-            "1,0,0,0,0": {
-              "guess": "idiom"
             }
           }
         },
         "0,0,0,0,1": {
-          "guess": "cigar",
+          "guess": "thigh",
           "result": {
-            "0,1,1,0,0": {
-              "guess": "thigh"
-            },
-            "1,1,0,0,0": {
+            "2,2,2,0,0": {
               "guess": "thick"
             }
           }
         },
         "0,0,0,0,2": {
-          "guess": "awake",
+          "guess": "twixt",
           "result": {
-            "0,0,0,0,0": {
+            "0,0,2,0,2": {
               "guess": "idiot"
-            },
-            "0,2,0,0,0": {
-              "guess": "twixt"
             }
           }
         },
@@ -3213,51 +2784,39 @@
           }
         },
         "0,0,0,2,1": {
-          "guess": "lying",
+          "guess": "thing",
           "result": {
-            "0,0,2,2,0": {
-              "guess": "think"
-            },
-            "0,0,2,2,2": {
-              "guess": "thing"
-            },
-            "0,2,2,2,2": {
+            "2,0,2,2,2": {
               "guess": "tying"
+            },
+            "2,2,2,2,0": {
+              "guess": "think"
             }
           }
         },
         "0,0,0,2,2": {
-          "guess": "humph",
+          "guess": "joint",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "joint"
-            },
-            "0,0,0,1,0": {
+            "0,2,2,2,2": {
               "guess": "point"
             }
           }
         },
         "0,0,1,0,0": {
-          "guess": "karma",
+          "guess": "juicy",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "juicy"
-            },
-            "0,0,0,1,0": {
+            "0,1,2,0,0": {
               "guess": "opium"
             },
-            "1,0,0,0,0": {
+            "0,2,2,2,0": {
               "guess": "quick"
             }
           }
         },
         "0,0,1,1,0": {
-          "guess": "sissy",
+          "guess": "union",
           "result": {
-            "0,1,0,0,0": {
-              "guess": "union"
-            },
-            "0,1,0,0,2": {
+            "2,2,2,0,0": {
               "guess": "unify"
             }
           }
@@ -3286,63 +2845,48 @@
           "guess": "lying"
         },
         "0,1,1,0,0": {
-          "guess": "cigar",
+          "guess": "quill",
           "result": {
-            "0,1,0,0,0": {
-              "guess": "quill"
-            },
-            "0,1,1,0,0": {
+            "0,2,2,2,0": {
               "guess": "guild"
             }
           }
         },
         "0,1,1,0,2": {
-          "guess": "cigar",
+          "guess": "guilt",
           "result": {
-            "0,1,0,0,0": {
+            "0,2,2,2,2": {
               "guess": "quilt"
-            },
-            "0,1,1,0,0": {
-              "guess": "guilt"
             }
           }
         },
         "0,2,0,0,0": {
-          "guess": "focal",
+          "guess": "cliff",
           "result": {
-            "0,0,1,0,1": {
-              "guess": "click"
-            },
-            "1,0,1,0,1": {
-              "guess": "cliff"
-            },
-            "2,0,1,0,1": {
+            "1,2,2,1,1": {
               "guess": "flick"
+            },
+            "2,2,2,0,0": {
+              "guess": "click"
             }
           }
         },
         "0,2,0,2,0": {
-          "guess": "cigar",
+          "guess": "clink",
           "result": {
-            "0,1,1,0,0": {
+            "0,2,2,2,0": {
               "guess": "fling"
             },
-            "2,1,0,0,0": {
-              "guess": "clink"
-            },
-            "2,1,1,0,0": {
+            "2,2,2,2,0": {
               "guess": "cling"
             }
           }
         },
         "0,2,0,2,2": {
-          "guess": "cigar",
+          "guess": "glint",
           "result": {
-            "0,1,0,0,0": {
+            "0,2,2,2,2": {
               "guess": "flint"
-            },
-            "0,1,1,0,0": {
-              "guess": "glint"
             }
           }
         },
@@ -3362,12 +2906,9 @@
           "guess": "blitz"
         },
         "2,2,0,2,0": {
-          "guess": "awake",
+          "guess": "blind",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "blind"
-            },
-            "0,0,0,1,0": {
+            "2,2,2,2,0": {
               "guess": "blink"
             }
           }
@@ -3378,13 +2919,10 @@
       "guess": "depth",
       "result": {
         "0,1,0,0,0": {
-          "guess": "sissy",
+          "guess": "eying",
           "result": {
-            "0,1,0,0,0": {
+            "2,0,2,2,2": {
               "guess": "eking"
-            },
-            "0,1,0,0,1": {
-              "guess": "eying"
             }
           }
         },
@@ -3392,13 +2930,10 @@
           "guess": "chief"
         },
         "0,1,0,1,0": {
-          "guess": "cigar",
+          "guess": "evict",
           "result": {
-            "0,1,0,0,0": {
+            "1,0,2,0,2": {
               "guess": "quiet"
-            },
-            "1,1,0,0,0": {
-              "guess": "evict"
             }
           }
         },
@@ -3406,24 +2941,18 @@
           "guess": "thief"
         },
         "0,2,0,0,0": {
-          "guess": "rebut",
+          "guess": "being",
           "result": {
-            "0,2,0,0,0": {
+            "0,2,2,1,1": {
               "guess": "feign"
-            },
-            "0,2,1,0,0": {
-              "guess": "being"
             }
           }
         },
         "0,2,0,0,2": {
-          "guess": "awake",
+          "guess": "weigh",
           "result": {
-            "0,0,0,0,1": {
+            "0,2,2,2,2": {
               "guess": "neigh"
-            },
-            "0,1,0,0,1": {
-              "guess": "weigh"
             }
           }
         },
@@ -3448,13 +2977,10 @@
       "guess": "cloth",
       "result": {
         "0,0,0,0,0": {
-          "guess": "cigar",
+          "guess": "guide",
           "result": {
-            "0,1,0,0,0": {
+            "0,0,2,0,2": {
               "guess": "knife"
-            },
-            "0,1,1,0,0": {
-              "guess": "guide"
             }
           }
         },
@@ -3465,13 +2991,10 @@
           "guess": "twine"
         },
         "0,0,0,2,0": {
-          "guess": "humph",
+          "guess": "quite",
           "result": {
-            "0,1,0,0,0": {
+            "0,1,2,2,2": {
               "guess": "unite"
-            },
-            "0,2,0,0,0": {
-              "guess": "quite"
             }
           }
         },
@@ -3479,26 +3002,20 @@
           "guess": "white"
         },
         "0,0,1,0,0": {
-          "guess": "evade",
+          "guess": "ovine",
           "result": {
-            "0,0,0,0,2": {
-              "guess": "opine"
-            },
-            "0,0,0,2,2": {
+            "2,0,2,0,2": {
               "guess": "oxide"
             },
-            "0,2,0,0,2": {
-              "guess": "ovine"
+            "2,0,2,2,2": {
+              "guess": "opine"
             }
           }
         },
         "0,1,0,0,0": {
-          "guess": "cigar",
+          "guess": "exile",
           "result": {
-            "0,1,0,0,0": {
-              "guess": "exile"
-            },
-            "0,1,1,0,0": {
+            "0,0,2,2,2": {
               "guess": "guile"
             }
           }
@@ -3510,12 +3027,9 @@
           "guess": "utile"
         },
         "0,2,0,0,0": {
-          "guess": "cigar",
+          "guess": "elide",
           "result": {
-            "0,1,0,0,0": {
-              "guess": "elide"
-            },
-            "0,1,1,0,0": {
+            "0,2,2,2,2": {
               "guess": "glide"
             }
           }
@@ -3536,13 +3050,10 @@
           "guess": "voice"
         },
         "2,0,0,0,1": {
-          "guess": "humph",
+          "guess": "chime",
           "result": {
-            "1,0,0,0,1": {
+            "2,2,2,0,2": {
               "guess": "chide"
-            },
-            "1,0,1,0,1": {
-              "guess": "chime"
             }
           }
         }
@@ -3555,66 +3066,51 @@
           "guess": "skiff"
         },
         "0,0,0,0,1": {
-          "guess": "focal",
+          "guess": "stiff",
           "result": {
-            "0,0,0,0,0": {
+            "2,1,2,0,0": {
               "guess": "smith"
             },
-            "0,0,1,0,0": {
+            "2,2,2,0,0": {
               "guess": "stick"
-            },
-            "1,0,0,0,0": {
-              "guess": "stiff"
             }
           }
         },
         "0,0,0,0,2": {
-          "guess": "humph",
+          "guess": "shift",
           "result": {
-            "0,0,0,0,0": {
+            "2,0,2,2,2": {
               "guess": "swift"
-            },
-            "1,0,0,0,1": {
-              "guess": "shift"
             }
           }
         },
         "0,0,0,1,0": {
-          "guess": "cigar",
+          "guess": "sniff",
           "result": {
-            "0,1,0,0,0": {
-              "guess": "sniff"
-            },
-            "1,1,0,0,0": {
+            "2,1,2,0,0": {
               "guess": "scion"
             }
           }
         },
         "0,0,0,2,0": {
-          "guess": "humph",
+          "guess": "swing",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "swing"
-            },
-            "0,1,0,0,0": {
+            "1,0,2,2,2": {
               "guess": "using"
             },
-            "0,2,0,0,0": {
-              "guess": "suing"
-            },
-            "1,0,0,0,1": {
+            "2,0,2,2,0": {
               "guess": "shiny"
+            },
+            "2,0,2,2,2": {
+              "guess": "suing"
             }
           }
         },
         "0,0,0,2,1": {
-          "guess": "cigar",
+          "guess": "sting",
           "result": {
-            "0,1,0,0,0": {
+            "2,2,2,2,0": {
               "guess": "stink"
-            },
-            "0,1,1,0,0": {
-              "guess": "sting"
             }
           }
         },
@@ -3622,13 +3118,10 @@
           "guess": "stint"
         },
         "0,1,0,0,0": {
-          "guess": "awake",
+          "guess": "swill",
           "result": {
-            "0,0,0,1,0": {
+            "2,0,2,2,2": {
               "guess": "skill"
-            },
-            "0,2,0,0,0": {
-              "guess": "swill"
             }
           }
         },
@@ -3639,38 +3132,29 @@
           "guess": "stilt"
         },
         "0,2,0,0,0": {
-          "guess": "cigar",
+          "guess": "slimy",
           "result": {
-            "0,1,0,0,0": {
-              "guess": "slimy"
-            },
-            "1,1,0,0,0": {
+            "2,2,2,0,0": {
               "guess": "slick"
             }
           }
         },
         "0,2,0,2,0": {
-          "guess": "cigar",
+          "guess": "slink",
           "result": {
-            "0,1,0,0,0": {
-              "guess": "slink"
-            },
-            "0,1,1,0,0": {
+            "2,2,2,2,0": {
               "guess": "sling"
             }
           }
         },
         "1,0,0,0,0": {
-          "guess": "awake",
+          "guess": "spiky",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "spicy"
-            },
-            "0,0,0,1,0": {
+            "2,1,2,1,0": {
               "guess": "skimp"
             },
-            "0,0,0,2,0": {
-              "guess": "spiky"
+            "2,2,2,0,2": {
+              "guess": "spicy"
             }
           }
         },
@@ -3686,15 +3170,12 @@
       }
     },
     "0,0,2,1,1": {
-      "guess": "blush",
+      "guess": "spied",
       "result": {
-        "0,0,0,1,0": {
-          "guess": "spied"
-        },
-        "0,0,0,1,1": {
+        "2,0,2,2,2": {
           "guess": "shied"
         },
-        "0,1,0,1,0": {
+        "2,2,2,2,0": {
           "guess": "spiel"
         }
       }
@@ -3706,13 +3187,10 @@
           "guess": "seize"
         },
         "0,0,0,0,1": {
-          "guess": "rebut",
+          "guess": "suite",
           "result": {
-            "0,1,0,0,1": {
+            "2,0,2,2,2": {
               "guess": "smite"
-            },
-            "0,1,0,1,1": {
-              "guess": "suite"
             }
           }
         },
@@ -3720,13 +3198,10 @@
           "guess": "snide"
         },
         "0,0,0,2,0": {
-          "guess": "humph",
+          "guess": "shine",
           "result": {
-            "0,0,0,0,0": {
+            "2,0,2,2,2": {
               "guess": "swine"
-            },
-            "1,0,0,0,1": {
-              "guess": "shine"
             }
           }
         },
@@ -3748,13 +3223,10 @@
           }
         },
         "1,0,0,0,0": {
-          "guess": "cigar",
+          "guess": "spice",
           "result": {
-            "0,1,0,0,0": {
+            "2,2,2,0,2": {
               "guess": "spike"
-            },
-            "1,1,0,0,0": {
-              "guess": "spice"
             }
           }
         },
@@ -3788,12 +3260,9 @@
           "guess": "noisy"
         },
         "0,2,0,1,0": {
-          "guess": "humph",
+          "guess": "joist",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "joist"
-            },
-            "0,0,1,0,0": {
+            "0,2,2,2,2": {
               "guess": "moist"
             }
           }
@@ -3807,27 +3276,21 @@
       }
     },
     "0,0,2,2,1": {
-      "guess": "rebut",
+      "guess": "exist",
       "result": {
-        "0,1,0,0,2": {
-          "guess": "exist"
-        },
-        "0,2,0,0,2": {
+        "1,0,2,2,2": {
           "guess": "heist"
         }
       }
     },
     "0,0,2,2,2": {
-      "guess": "humph",
+      "guess": "noise",
       "result": {
-        "0,0,0,0,0": {
-          "guess": "noise"
-        },
-        "0,0,0,1,0": {
-          "guess": "poise"
-        },
-        "0,2,0,0,0": {
+        "0,0,2,2,2": {
           "guess": "guise"
+        },
+        "0,2,2,2,2": {
+          "guess": "poise"
         }
       }
     },
@@ -3835,12 +3298,9 @@
       "guess": "clout",
       "result": {
         "0,0,0,0,1": {
-          "guess": "cigar",
+          "guess": "thank",
           "result": {
-            "0,0,0,1,0": {
-              "guess": "thank"
-            },
-            "0,0,1,1,0": {
+            "2,0,2,2,0": {
               "guess": "twang"
             }
           }
@@ -3849,64 +3309,52 @@
           "guess": "adapt"
         },
         "0,0,0,1,0": {
-          "guess": "cigar",
+          "guess": "guava",
           "result": {
-            "0,0,0,2,0": {
+            "0,2,1,0,1": {
               "guess": "human"
-            },
-            "0,0,1,1,0": {
-              "guess": "guava"
             }
           }
         },
         "0,0,0,1,1": {
-          "guess": "sissy",
+          "guess": "junta",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "junta"
-            },
-            "0,0,0,0,2": {
+            "0,2,2,2,1": {
               "guess": "aunty"
             }
           }
         },
         "0,0,1,0,0": {
-          "guess": "nymph",
+          "guess": "nomad",
           "result": {
-            "0,0,0,0,0": {
+            "0,2,0,1,1": {
               "guess": "vodka"
             },
-            "0,0,1,0,0": {
-              "guess": "dogma"
-            },
-            "0,1,1,0,0": {
+            "0,2,1,1,0": {
               "guess": "foamy"
             },
-            "1,0,0,0,0": {
-              "guess": "gonad"
+            "0,2,1,1,1": {
+              "guess": "dogma"
             },
-            "1,0,2,0,0": {
-              "guess": "woman"
-            },
-            "1,1,0,0,0": {
+            "1,1,0,1,0": {
               "guess": "annoy"
             },
-            "2,0,2,0,0": {
-              "guess": "nomad"
+            "1,2,0,2,2": {
+              "guess": "gonad"
+            },
+            "1,2,2,2,0": {
+              "guess": "woman"
             }
           }
         },
         "0,0,1,0,1": {
-          "guess": "grade",
+          "guess": "topaz",
           "result": {
-            "0,0,1,0,0": {
-              "guess": "topaz"
-            },
-            "0,0,1,1,0": {
-              "guess": "today"
-            },
-            "1,0,1,0,0": {
+            "2,2,0,1,0": {
               "guess": "tonga"
+            },
+            "2,2,0,2,0": {
+              "guess": "today"
             }
           }
         },
@@ -3914,23 +3362,17 @@
           "guess": "abbot"
         },
         "0,0,2,0,0": {
-          "guess": "sissy",
+          "guess": "agony",
           "result": {
-            "0,0,0,0,0": {
+            "2,1,2,2,0": {
               "guess": "among"
-            },
-            "0,0,0,0,2": {
-              "guess": "agony"
             }
           }
         },
         "0,0,2,0,2": {
-          "guess": "humph",
+          "guess": "afoot",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "afoot"
-            },
-            "0,0,0,2,0": {
+            "2,0,2,0,2": {
               "guess": "adopt"
             }
           }
@@ -3942,15 +3384,12 @@
           "guess": "about"
         },
         "0,1,0,0,0": {
-          "guess": "humph",
+          "guess": "apply",
           "result": {
-            "0,0,0,0,0": {
+            "1,0,0,1,1": {
               "guess": "bylaw"
             },
-            "0,0,0,1,0": {
-              "guess": "apply"
-            },
-            "0,0,1,1,0": {
+            "2,0,2,2,2": {
               "guess": "amply"
             }
           }
@@ -3959,12 +3398,9 @@
           "guess": "aptly"
         },
         "0,1,0,1,0": {
-          "guess": "cigar",
+          "guess": "qualm",
           "result": {
-            "0,0,0,1,0": {
-              "guess": "qualm"
-            },
-            "0,0,0,2,0": {
+            "0,2,1,1,0": {
               "guess": "pupal"
             }
           }
@@ -3976,12 +3412,9 @@
           "guess": "adult"
         },
         "0,1,0,2,0": {
-          "guess": "awake",
+          "guess": "annul",
           "result": {
-            "2,0,0,0,0": {
-              "guess": "annul"
-            },
-            "2,2,0,0,0": {
+            "2,0,0,2,2": {
               "guess": "awful"
             }
           }
@@ -4016,16 +3449,13 @@
           }
         },
         "0,1,1,0,1": {
-          "guess": "naval",
+          "guess": "tonal",
           "result": {
-            "0,0,0,2,2": {
-              "guess": "total"
-            },
-            "0,1,0,1,1": {
+            "1,2,0,1,1": {
               "guess": "loath"
             },
-            "1,0,0,2,2": {
-              "guess": "tonal"
+            "2,2,0,2,2": {
+              "guess": "total"
             }
           }
         },
@@ -4036,47 +3466,38 @@
           "guess": "afoul"
         },
         "0,2,0,0,0": {
-          "guess": "prank",
+          "guess": "plank",
           "result": {
-            "0,0,1,0,0": {
+            "0,2,1,0,0": {
               "guess": "allay"
             },
-            "0,0,2,0,0": {
+            "0,2,2,0,0": {
               "guess": "llama"
             },
-            "0,0,2,0,1": {
+            "0,2,2,0,1": {
               "guess": "flaky"
             },
-            "0,0,2,2,0": {
-              "guess": "cigar",
+            "0,2,2,2,0": {
+              "guess": "gland",
               "result": {
-                "0,0,0,1,0": {
+                "0,2,2,2,2": {
                   "guess": "bland"
-                },
-                "0,0,1,1,0": {
-                  "guess": "gland"
                 }
               }
             },
-            "0,0,2,2,2": {
-              "guess": "rebut",
+            "0,2,2,2,2": {
+              "guess": "flank",
               "result": {
-                "0,0,0,0,0": {
-                  "guess": "flank"
-                },
-                "0,0,1,0,0": {
+                "0,2,2,2,2": {
                   "guess": "blank"
                 }
               }
             },
-            "1,0,1,0,0": {
+            "1,2,1,0,0": {
               "guess": "alpha"
             },
-            "2,0,2,0,0": {
+            "2,2,2,0,0": {
               "guess": "plaza"
-            },
-            "2,0,2,2,2": {
-              "guess": "plank"
             }
           }
         },
@@ -4087,13 +3508,10 @@
           "guess": "album"
         },
         "0,2,1,0,0": {
-          "guess": "sissy",
+          "guess": "alloy",
           "result": {
-            "0,0,0,0,0": {
+            "2,2,2,2,0": {
               "guess": "allow"
-            },
-            "0,0,0,0,2": {
-              "guess": "alloy"
             }
           }
         },
@@ -4101,12 +3519,9 @@
           "guess": "allot"
         },
         "0,2,2,0,0": {
-          "guess": "cigar",
+          "guess": "aloof",
           "result": {
-            "0,0,0,1,0": {
-              "guess": "aloof"
-            },
-            "0,0,1,1,0": {
+            "2,2,2,0,0": {
               "guess": "along"
             }
           }
@@ -4169,23 +3584,17 @@
           "guess": "octal"
         },
         "1,2,0,0,0": {
-          "guess": "rebut",
+          "guess": "flack",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "flack"
-            },
-            "0,0,1,0,0": {
+            "0,2,2,2,2": {
               "guess": "black"
             }
           }
         },
         "2,0,0,0,0": {
-          "guess": "humph",
+          "guess": "chaff",
           "result": {
-            "1,0,0,0,1": {
-              "guess": "chaff"
-            },
-            "1,0,1,1,1": {
+            "2,2,2,0,0": {
               "guess": "champ"
             }
           }
@@ -4194,16 +3603,13 @@
           "guess": "chant"
         },
         "2,0,1,0,0": {
-          "guess": "humph",
+          "guess": "cocoa",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "cocoa"
-            },
-            "0,0,0,0,2": {
-              "guess": "coach"
-            },
-            "0,0,2,0,0": {
+            "2,2,0,0,2": {
               "guess": "comma"
+            },
+            "2,2,1,0,1": {
+              "guess": "coach"
             }
           }
         },
@@ -4211,19 +3617,16 @@
           "guess": "chalk"
         },
         "2,2,0,0,0": {
-          "guess": "stink",
+          "guess": "clank",
           "result": {
-            "0,0,0,0,0": {
+            "2,2,2,0,0": {
               "guess": "clamp"
             },
-            "0,0,0,0,2": {
+            "2,2,2,0,2": {
               "guess": "clack"
             },
-            "0,0,0,2,0": {
+            "2,2,2,2,0": {
               "guess": "clang"
-            },
-            "0,0,0,2,2": {
-              "guess": "clank"
             }
           }
         },
@@ -4236,43 +3639,34 @@
       "guess": "cleat",
       "result": {
         "0,0,1,1,0": {
-          "guess": "abate",
+          "guess": "heavy",
           "result": {
-            "0,0,2,0,1": {
-              "guess": "evade",
+            "0,1,1,0,0": {
+              "guess": "apnea",
               "result": {
-                "1,0,2,2,1": {
-                  "guess": "heady"
-                },
-                "1,1,2,0,1": {
-                  "guess": "heavy"
+                "2,0,2,2,0": {
+                  "guess": "annex"
                 }
               }
             },
-            "0,1,2,0,1": {
+            "0,1,1,0,2": {
+              "guess": "abbey"
+            },
+            "0,2,2,0,2": {
               "guess": "beady"
             },
-            "2,0,0,0,1": {
-              "guess": "annex"
-            },
-            "2,0,1,0,1": {
-              "guess": "apnea"
-            },
-            "2,2,0,0,1": {
-              "guess": "abbey"
+            "2,2,2,0,2": {
+              "guess": "heady"
             }
           }
         },
         "0,0,1,1,1": {
-          "guess": "humph",
+          "guess": "death",
           "result": {
-            "0,0,0,0,2": {
-              "guess": "death"
-            },
-            "0,0,1,0,0": {
+            "0,2,2,2,0": {
               "guess": "meaty"
             },
-            "2,0,0,0,2": {
+            "0,2,2,2,2": {
               "guess": "heath"
             }
           }
@@ -4281,16 +3675,13 @@
           "guess": "meant"
         },
         "0,0,1,2,0": {
-          "guess": "rebut",
+          "guess": "vegan",
           "result": {
-            "0,2,0,0,0": {
-              "guess": "vegan"
-            },
-            "0,2,1,0,0": {
-              "guess": "began"
-            },
-            "0,2,2,0,0": {
+            "0,2,0,2,0": {
               "guess": "kebab"
+            },
+            "0,2,2,2,2": {
+              "guess": "began"
             }
           }
         },
@@ -4298,19 +3689,16 @@
           "guess": "begat"
         },
         "0,0,2,1,0": {
-          "guess": "model",
+          "guess": "hyena",
           "result": {
-            "0,0,0,1,0": {
-              "guess": "hyena"
+            "0,0,2,0,2": {
+              "guess": "omega"
             },
-            "1,0,0,1,0": {
+            "0,0,2,1,2": {
               "guess": "enema"
             },
-            "1,0,1,1,0": {
+            "0,0,2,2,1": {
               "guess": "amend"
-            },
-            "1,1,0,1,0": {
-              "guess": "omega"
             }
           }
         },
@@ -4318,23 +3706,17 @@
           "guess": "theta"
         },
         "0,0,2,1,2": {
-          "guess": "cigar",
+          "guess": "agent",
           "result": {
-            "0,0,0,1,0": {
+            "2,0,2,0,2": {
               "guess": "adept"
-            },
-            "0,0,1,1,0": {
-              "guess": "agent"
             }
           }
         },
         "0,0,2,2,0": {
-          "guess": "humph",
+          "guess": "knead",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "knead"
-            },
-            "1,0,0,0,1": {
+            "0,0,2,2,2": {
               "guess": "ahead"
             }
           }
@@ -4369,42 +3751,36 @@
           "guess": "delta"
         },
         "0,1,1,1,2": {
-          "guess": "pound",
+          "guess": "leapt",
           "result": {
-            "0,0,0,0,0": {
+            "1,1,2,0,2": {
               "guess": "exalt"
             },
-            "0,0,0,0,1": {
+            "1,2,2,0,2": {
               "guess": "dealt"
             },
-            "0,0,0,2,0": {
+            "2,2,2,0,2": {
               "guess": "leant"
-            },
-            "1,0,0,0,0": {
-              "guess": "leapt"
             }
           }
         },
         "0,1,1,2,0": {
-          "guess": "depot",
+          "guess": "pedal",
           "result": {
-            "0,1,0,0,0": {
+            "0,1,0,2,2": {
               "guess": "equal"
             },
-            "0,2,0,0,0": {
+            "0,2,0,2,2": {
               "guess": "legal"
             },
-            "0,2,1,0,0": {
-              "guess": "penal"
+            "0,2,1,2,1": {
+              "guess": "delay"
             },
-            "1,2,0,0,0": {
+            "0,2,2,2,2": {
               "guess": "medal"
             },
-            "1,2,1,0,0": {
-              "guess": "pedal"
-            },
-            "2,2,0,0,0": {
-              "guess": "delay"
+            "2,2,0,2,2": {
+              "guess": "penal"
             }
           }
         },
@@ -4443,27 +3819,21 @@
           }
         },
         "0,2,2,2,2": {
-          "guess": "rebut",
+          "guess": "bleat",
           "result": {
-            "0,1,0,0,2": {
+            "0,2,2,2,2": {
               "guess": "pleat"
-            },
-            "0,1,1,0,2": {
-              "guess": "bleat"
             }
           }
         },
         "1,0,1,1,0": {
-          "guess": "humph",
+          "guess": "beach",
           "result": {
-            "0,0,0,0,2": {
-              "guess": "beach"
-            },
-            "0,0,0,1,2": {
-              "guess": "peach"
-            },
-            "0,0,1,0,0": {
+            "0,2,1,2,0": {
               "guess": "mecca"
+            },
+            "0,2,2,2,2": {
+              "guess": "peach"
             }
           }
         },
@@ -4471,23 +3841,17 @@
           "guess": "teach"
         },
         "1,0,1,1,2": {
-          "guess": "naval",
+          "guess": "exact",
           "result": {
-            "0,1,0,1,0": {
-              "guess": "exact"
-            },
-            "1,1,0,1,0": {
+            "2,0,2,2,2": {
               "guess": "enact"
             }
           }
         },
         "1,0,1,2,0": {
-          "guess": "sissy",
+          "guess": "pecan",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "pecan"
-            },
-            "0,0,0,0,2": {
+            "0,2,2,2,0": {
               "guess": "decay"
             }
           }
@@ -4499,12 +3863,9 @@
           "guess": "leach"
         },
         "1,1,1,2,0": {
-          "guess": "focal",
+          "guess": "decal",
           "result": {
-            "0,0,2,2,2": {
-              "guess": "decal"
-            },
-            "2,0,2,2,2": {
+            "0,2,2,2,2": {
               "guess": "fecal"
             }
           }
@@ -4527,12 +3888,9 @@
       "guess": "black",
       "result": {
         "0,0,1,0,0": {
-          "guess": "rebut",
+          "guess": "anode",
           "result": {
-            "0,1,0,0,0": {
-              "guess": "anode"
-            },
-            "0,1,0,0,1": {
+            "2,1,2,0,2": {
               "guess": "atone"
             }
           }
@@ -4547,13 +3905,10 @@
           "guess": "admit",
           "result": {
             "1,0,0,0,0": {
-              "guess": "humph",
+              "guess": "heave",
               "result": {
-                "0,0,0,0,0": {
+                "0,2,2,2,2": {
                   "guess": "weave"
-                },
-                "2,0,0,0,0": {
-                  "guess": "heave"
                 }
               }
             },
@@ -4578,13 +3933,13 @@
           }
         },
         "0,0,2,0,1": {
-          "guess": "awake",
+          "guess": "quake",
           "result": {
             "0,0,2,1,2": {
               "guess": "knave"
             },
             "0,0,2,2,2": {
-              "guess": "quake"
+              "guess": "awake"
             }
           }
         },
@@ -4595,15 +3950,12 @@
           "guess": "peace"
         },
         "0,1,1,0,0": {
-          "guess": "humph",
+          "guess": "apple",
           "result": {
-            "0,0,0,0,0": {
+            "2,0,0,2,2": {
               "guess": "angle"
             },
-            "0,0,0,1,0": {
-              "guess": "apple"
-            },
-            "0,0,1,1,0": {
+            "2,0,2,2,2": {
               "guess": "ample"
             }
           }
@@ -4612,24 +3964,18 @@
           "guess": "ankle"
         },
         "0,1,2,0,0": {
-          "guess": "rebut",
+          "guess": "whale",
           "result": {
-            "0,1,0,0,0": {
-              "guess": "whale"
-            },
-            "0,2,0,0,0": {
+            "0,0,2,1,2": {
               "guess": "leave"
             }
           }
         },
         "0,2,1,0,0": {
-          "guess": "cigar",
+          "guess": "algae",
           "result": {
-            "0,0,0,1,0": {
+            "2,2,0,0,2": {
               "guess": "alone"
-            },
-            "0,0,2,2,0": {
-              "guess": "algae"
             }
           }
         },
@@ -4637,13 +3983,10 @@
           "guess": "depot",
           "result": {
             "0,1,0,0,0": {
-              "guess": "cigar",
+              "guess": "glaze",
               "result": {
-                "0,0,0,1,0": {
+                "0,2,2,0,2": {
                   "guess": "flame"
-                },
-                "0,0,1,1,0": {
-                  "guess": "glaze"
                 }
               }
             },
@@ -4668,16 +4011,13 @@
           "guess": "place"
         },
         "1,0,1,0,0": {
-          "guess": "evade",
+          "guess": "above",
           "result": {
-            "0,0,1,1,2": {
+            "2,1,2,0,2": {
               "guess": "adobe"
             },
-            "0,0,1,2,2": {
+            "2,2,2,0,2": {
               "guess": "abode"
-            },
-            "0,1,1,0,2": {
-              "guess": "above"
             }
           }
         },
@@ -4707,26 +4047,20 @@
       "guess": "chalk",
       "result": {
         "0,0,1,0,0": {
-          "guess": "rebut",
+          "guess": "squat",
           "result": {
-            "0,0,0,0,0": {
+            "1,0,0,2,0": {
               "guess": "assay"
             },
-            "0,0,0,1,0": {
+            "2,2,2,2,0": {
               "guess": "squad"
-            },
-            "0,0,0,1,2": {
-              "guess": "squat"
             }
           }
         },
         "0,0,1,1,0": {
-          "guess": "rebut",
+          "guess": "splat",
           "result": {
-            "0,0,0,0,2": {
-              "guess": "splat"
-            },
-            "0,0,0,1,0": {
+            "1,0,1,2,0": {
               "guess": "usual"
             }
           }
@@ -4758,38 +4092,29 @@
           "guess": "snaky"
         },
         "0,0,2,0,2": {
-          "guess": "rebut",
+          "guess": "spank",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "spank"
-            },
-            "0,0,0,0,1": {
+            "2,0,2,2,2": {
               "guess": "stank"
             }
           }
         },
         "0,0,2,1,0": {
-          "guess": "cigar",
+          "guess": "slant",
           "result": {
-            "0,0,0,1,0": {
-              "guess": "slant"
-            },
-            "0,0,1,1,0": {
+            "2,2,2,2,0": {
               "guess": "slang"
             }
           }
         },
         "0,0,2,2,0": {
-          "guess": "humph",
+          "guess": "stall",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "stall"
-            },
-            "0,0,1,0,0": {
-              "guess": "small"
-            },
-            "0,0,1,1,0": {
+            "1,0,2,2,0": {
               "guess": "psalm"
+            },
+            "2,0,2,2,2": {
+              "guess": "small"
             }
           }
         },
@@ -4803,12 +4128,9 @@
           "guess": "shoal"
         },
         "0,2,2,0,0": {
-          "guess": "rebut",
+          "guess": "shady",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "shady"
-            },
-            "0,0,0,0,2": {
+            "2,2,2,0,0": {
               "guess": "shaft"
             }
           }
@@ -4823,37 +4145,28 @@
           "guess": "shawl"
         },
         "0,2,2,2,0": {
-          "guess": "rebut",
+          "guess": "shalt",
           "result": {
-            "0,0,0,0,0": {
+            "2,2,2,2,0": {
               "guess": "shall"
-            },
-            "0,0,0,0,2": {
-              "guess": "shalt"
             }
           }
         },
         "1,0,1,0,0": {
-          "guess": "rebut",
+          "guess": "sumac",
           "result": {
-            "0,0,0,0,2": {
+            "1,0,0,1,1": {
               "guess": "ascot"
             },
-            "0,0,0,1,0": {
-              "guess": "sumac"
-            },
-            "0,0,1,1,0": {
+            "2,1,0,1,1": {
               "guess": "scuba"
             }
           }
         },
         "1,0,2,0,0": {
-          "guess": "rebut",
+          "guess": "scamp",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "scamp"
-            },
-            "0,0,0,0,2": {
+            "2,2,2,0,0": {
               "guess": "scant"
             }
           }
@@ -4907,13 +4220,10 @@
           "guess": "asset"
         },
         "0,0,2,0,1": {
-          "guess": "humph",
+          "guess": "steam",
           "result": {
-            "0,0,0,0,0": {
+            "2,2,2,2,0": {
               "guess": "stead"
-            },
-            "0,0,1,0,0": {
-              "guess": "steam"
             }
           }
         },
@@ -4924,12 +4234,9 @@
           "guess": "steal"
         },
         "0,1,1,0,0": {
-          "guess": "cigar",
+          "guess": "ashen",
           "result": {
-            "0,0,0,1,0": {
-              "guess": "ashen"
-            },
-            "0,0,0,2,0": {
+            "1,1,0,1,2": {
               "guess": "sedan"
             }
           }
@@ -4972,12 +4279,9 @@
           "guess": "vodka",
           "result": {
             "0,0,0,0,1": {
-              "guess": "humph",
+              "guess": "shape",
               "result": {
-                "1,0,0,2,1": {
-                  "guess": "shape"
-                },
-                "1,0,1,0,1": {
+                "2,2,2,0,2": {
                   "guess": "shame"
                 }
               }
@@ -5008,12 +4312,9 @@
           }
         },
         "0,0,0,2,0": {
-          "guess": "awake",
+          "guess": "state",
           "result": {
-            "0,0,2,0,2": {
-              "guess": "state"
-            },
-            "0,0,2,1,2": {
+            "2,0,2,2,2": {
               "guess": "skate"
             }
           }
@@ -5039,18 +4340,12 @@
       }
     },
     "0,1,0,2,0": {
-      "guess": "shalt",
+      "guess": "slash",
       "result": {
-        "1,0,1,0,0": {
-          "guess": "abyss"
-        },
-        "1,0,1,0,2": {
+        "0,0,1,2,0": {
           "guess": "angst"
         },
-        "1,0,2,0,0": {
-          "guess": "amass"
-        },
-        "1,0,2,0,2": {
+        "0,0,2,2,0": {
           "guess": "bench",
           "result": {
             "0,0,0,0,0": {
@@ -5064,27 +4359,10 @@
             }
           }
         },
-        "1,0,2,1,0": {
-          "guess": "crass",
-          "result": {
-            "0,0,2,2,0": {
-              "guess": "flask"
-            },
-            "0,0,2,2,2": {
-              "guess": "glass"
-            },
-            "2,0,2,2,0": {
-              "guess": "clasp"
-            },
-            "2,0,2,2,2": {
-              "guess": "class"
-            }
-          }
+        "0,0,2,2,1": {
+          "guess": "chasm"
         },
-        "1,0,2,1,2": {
-          "guess": "blast"
-        },
-        "1,1,2,0,0": {
+        "0,0,2,2,2": {
           "guess": "unfed",
           "result": {
             "0,0,0,0,0": {
@@ -5098,39 +4376,58 @@
             }
           }
         },
-        "1,1,2,1,0": {
-          "guess": "cigar",
+        "0,2,2,2,0": {
+          "guess": "focal",
           "result": {
-            "0,0,0,1,0": {
-              "guess": "flash"
+            "0,0,0,1,1": {
+              "guess": "blast"
             },
-            "2,0,0,1,0": {
-              "guess": "clash"
+            "0,0,1,1,1": {
+              "guess": "clasp"
+            },
+            "2,0,0,1,1": {
+              "guess": "flask"
             }
           }
         },
-        "1,2,2,0,0": {
-          "guess": "chasm"
+        "0,2,2,2,2": {
+          "guess": "clash",
+          "result": {
+            "0,2,2,2,2": {
+              "guess": "flash"
+            }
+          }
         },
-        "2,0,2,0,0": {
+        "1,0,1,2,0": {
+          "guess": "abyss"
+        },
+        "1,0,2,2,0": {
+          "guess": "amass"
+        },
+        "1,2,2,2,0": {
+          "guess": "class",
+          "result": {
+            "0,2,2,2,2": {
+              "guess": "glass"
+            }
+          }
+        },
+        "2,0,2,2,0": {
           "guess": "spasm"
         },
-        "2,1,2,0,0": {
-          "guess": "humph",
+        "2,0,2,2,2": {
+          "guess": "trawl",
           "result": {
-            "0,0,0,0,2": {
+            "0,0,2,0,0": {
+              "guess": "smash"
+            },
+            "0,0,2,1,0": {
               "guess": "swash"
             },
-            "0,0,1,0,2": {
-              "guess": "smash"
+            "1,0,2,0,0": {
+              "guess": "stash"
             }
           }
-        },
-        "2,1,2,0,1": {
-          "guess": "stash"
-        },
-        "2,1,2,1,0": {
-          "guess": "slash"
         }
       }
     },
@@ -5187,62 +4484,47 @@
       "guess": "until",
       "result": {
         "0,0,0,1,0": {
-          "guess": "cigar",
+          "guess": "pizza",
           "result": {
-            "0,1,0,1,0": {
+            "0,1,0,0,1": {
               "guess": "khaki"
-            },
-            "0,2,0,1,0": {
-              "guess": "pizza"
             }
           }
         },
         "0,0,0,1,1": {
-          "guess": "focal",
+          "guess": "viola",
           "result": {
-            "0,0,0,1,1": {
-              "guess": "villa"
-            },
-            "0,0,1,2,1": {
+            "0,2,0,1,1": {
               "guess": "lilac"
             },
-            "0,1,0,1,1": {
-              "guess": "viola"
+            "2,2,0,2,2": {
+              "guess": "villa"
             }
           }
         },
         "0,0,0,2,0": {
-          "guess": "focal",
+          "guess": "avoid",
           "result": {
-            "0,0,0,1,0": {
-              "guess": "aphid"
-            },
-            "0,1,0,1,0": {
-              "guess": "avoid"
-            },
-            "1,0,0,1,0": {
+            "2,0,0,2,0": {
               "guess": "affix"
+            },
+            "2,0,0,2,2": {
+              "guess": "aphid"
             }
           }
         },
         "0,0,0,2,1": {
-          "guess": "cigar",
+          "guess": "plaid",
           "result": {
-            "0,1,0,1,0": {
-              "guess": "plaid"
-            },
-            "2,1,0,1,0": {
+            "0,2,2,2,0": {
               "guess": "claim"
             }
           }
         },
         "0,0,0,2,2": {
-          "guess": "awake",
+          "guess": "flail",
           "result": {
-            "0,0,2,0,0": {
-              "guess": "flail"
-            },
-            "2,0,2,0,0": {
+            "0,0,2,2,2": {
               "guess": "avail"
             }
           }
@@ -5251,16 +4533,13 @@
           "guess": "tidal"
         },
         "0,0,1,2,0": {
-          "guess": "awake",
+          "guess": "await",
           "result": {
-            "1,0,1,0,0": {
+            "1,0,1,2,1": {
               "guess": "tibia"
             },
-            "2,0,0,0,0": {
+            "2,0,0,2,2": {
               "guess": "admit"
-            },
-            "2,2,2,0,0": {
-              "guess": "await"
             }
           }
         },
@@ -5274,13 +4553,10 @@
           "guess": "attic"
         },
         "0,1,0,1,0": {
-          "guess": "humph",
+          "guess": "piano",
           "result": {
-            "0,0,0,0,0": {
+            "0,2,1,1,0": {
               "guess": "ninja"
-            },
-            "0,0,0,1,0": {
-              "guess": "piano"
             }
           }
         },
@@ -5288,16 +4564,13 @@
           "guess": "final"
         },
         "0,1,0,2,0": {
-          "guess": "cigar",
+          "guess": "chain",
           "result": {
-            "0,1,0,1,0": {
+            "0,0,1,2,2": {
               "guess": "admin"
             },
-            "0,1,1,1,0": {
+            "0,0,2,2,2": {
               "guess": "again"
-            },
-            "2,1,0,1,0": {
-              "guess": "chain"
             }
           }
         },
@@ -5331,53 +4604,44 @@
       }
     },
     "0,1,1,0,1": {
-      "guess": "focal",
+      "guess": "email",
       "result": {
-        "0,0,0,1,0": {
-          "guess": "media"
-        },
-        "0,0,0,1,2": {
-          "guess": "email"
-        },
-        "0,0,0,2,2": {
+        "1,0,1,1,2": {
           "guess": "ideal"
+        },
+        "1,1,1,2,0": {
+          "guess": "media"
         }
       }
     },
     "0,1,1,0,2": {
-      "guess": "cigar",
+      "guess": "image",
       "result": {
-        "0,1,0,1,0": {
+        "2,0,2,0,2": {
           "guess": "inane"
-        },
-        "0,1,1,1,0": {
-          "guess": "image"
         }
       }
     },
     "0,1,1,1,0": {
-      "guess": "plant",
+      "guess": "slain",
       "result": {
-        "0,0,1,0,0": {
-          "guess": "sigma"
-        },
-        "0,0,1,0,1": {
+        "1,0,1,1,0": {
           "guess": "vista"
         },
-        "0,0,2,0,0": {
+        "2,0,1,1,0": {
+          "guess": "sigma"
+        },
+        "2,0,2,1,0": {
           "guess": "swami"
         },
-        "0,0,2,0,1": {
+        "2,0,2,2,0": {
           "guess": "staid"
         },
-        "0,0,2,1,1": {
+        "2,0,2,2,2": {
           "guess": "stain"
         },
-        "0,1,2,1,0": {
+        "2,1,2,2,1": {
           "guess": "snail"
-        },
-        "0,2,2,1,0": {
-          "guess": "slain"
         }
       }
     },
@@ -5409,13 +4673,10 @@
           "guess": "avian"
         },
         "2,0,0,2,0": {
-          "guess": "humph",
+          "guess": "aping",
           "result": {
-            "0,0,0,0,0": {
+            "2,0,2,2,2": {
               "guess": "aging"
-            },
-            "0,0,0,1,0": {
-              "guess": "aping"
             }
           }
         },
@@ -5469,7 +4730,7 @@
       "guess": "lynch",
       "result": {
         "0,0,0,0,0": {
-          "guess": "gamma",
+          "guess": "magma",
           "result": {
             "0,2,0,0,0": {
               "guess": "taboo"
@@ -5477,47 +4738,41 @@
             "0,2,0,0,2": {
               "guess": "kappa"
             },
-            "0,2,1,1,0": {
+            "1,2,0,1,0": {
               "guess": "datum"
             },
-            "0,2,1,1,1": {
-              "guess": "madam"
-            },
-            "0,2,2,1,0": {
-              "guess": "mambo"
-            },
-            "0,2,2,2,2": {
-              "guess": "mamma"
+            "1,2,1,1,0": {
+              "guess": "gamut"
             },
             "1,2,1,2,2": {
-              "guess": "magma"
+              "guess": "gamma"
             },
-            "2,2,2,0,0": {
-              "guess": "gamut"
+            "2,2,0,1,0": {
+              "guess": "mambo"
+            },
+            "2,2,0,1,1": {
+              "guess": "madam"
+            },
+            "2,2,0,2,2": {
+              "guess": "mamma"
             }
           }
         },
         "0,0,0,1,0": {
-          "guess": "cigar",
+          "guess": "caput",
           "result": {
-            "1,0,0,2,0": {
+            "1,2,0,0,0": {
               "guess": "macaw"
             },
-            "2,0,0,1,0": {
-              "guess": "caput"
-            },
-            "2,0,0,2,0": {
+            "2,2,0,0,0": {
               "guess": "cacao"
             }
           }
         },
         "0,0,0,1,1": {
-          "guess": "humph",
+          "guess": "macho",
           "result": {
-            "1,0,1,0,1": {
-              "guess": "macho"
-            },
-            "2,0,0,0,0": {
+            "0,2,1,1,1": {
               "guess": "havoc"
             }
           }
@@ -5594,18 +4849,15 @@
           "guess": "bacon"
         },
         "0,0,2,0,0": {
-          "guess": "major",
+          "guess": "tango",
           "result": {
-            "0,2,0,1,0": {
-              "guess": "tango"
-            },
-            "0,2,1,1,0": {
+            "0,2,2,0,2": {
               "guess": "banjo"
             },
-            "2,2,0,0,0": {
+            "0,2,2,2,0": {
               "guess": "manga"
             },
-            "2,2,0,1,0": {
+            "0,2,2,2,2": {
               "guess": "mango"
             }
           }
@@ -5634,19 +4886,16 @@
               }
             },
             "0,0,0,0,1": {
-              "guess": "thief",
+              "guess": "taffy",
               "result": {
-                "1,0,0,0,0": {
+                "1,2,0,0,2": {
                   "guess": "patty"
                 },
-                "1,0,0,0,1": {
+                "1,2,1,1,2": {
                   "guess": "fatty"
                 },
-                "2,0,0,0,0": {
+                "2,2,0,0,2": {
                   "guess": "tatty"
-                },
-                "2,0,0,0,1": {
-                  "guess": "taffy"
                 }
               }
             },
@@ -5709,12 +4958,9 @@
           "guess": "digit",
           "result": {
             "0,0,0,0,0": {
-              "guess": "focal",
+              "guess": "nanny",
               "result": {
-                "0,0,0,1,0": {
-                  "guess": "nanny"
-                },
-                "2,0,0,1,0": {
+                "0,2,2,2,2": {
                   "guess": "fanny"
                 }
               }
@@ -5734,13 +4980,10 @@
           "guess": "handy"
         },
         "0,1,2,1,0": {
-          "guess": "evade",
+          "guess": "candy",
           "result": {
-            "0,0,1,0,0": {
+            "2,2,2,0,2": {
               "guess": "canny"
-            },
-            "0,0,1,2,0": {
-              "guess": "candy"
             }
           }
         },
@@ -5748,43 +4991,37 @@
           "guess": "fancy"
         },
         "1,0,0,0,0": {
-          "guess": "first",
+          "guess": "fault",
           "result": {
-            "0,0,0,0,0": {
+            "0,2,0,1,0": {
               "guess": "papal"
             },
-            "0,0,0,0,1": {
+            "0,2,0,1,1": {
               "guess": "waltz"
             },
-            "0,0,0,0,2": {
+            "0,2,2,2,2": {
               "guess": "vault"
             },
-            "2,0,0,0,1": {
+            "2,2,0,1,1": {
               "guess": "fatal"
-            },
-            "2,0,0,0,2": {
-              "guess": "fault"
             }
           }
         },
         "1,0,0,1,0": {
-          "guess": "cigar",
+          "guess": "cabal",
           "result": {
-            "2,0,0,1,0": {
+            "2,2,0,0,1": {
               "guess": "caulk"
-            },
-            "2,0,0,2,0": {
-              "guess": "cabal"
             }
           }
         },
         "1,0,1,0,0": {
-          "guess": "naval",
+          "guess": "talon",
           "result": {
-            "1,2,0,0,1": {
-              "guess": "talon"
+            "0,2,1,0,1": {
+              "guess": "naval"
             },
-            "2,2,0,2,2": {
+            "1,2,1,0,1": {
               "guess": "natal"
             }
           }
@@ -5836,18 +5073,15 @@
       "guess": "notch",
       "result": {
         "0,0,0,0,0": {
-          "guess": "labor",
+          "guess": "bagel",
           "result": {
-            "1,2,0,0,0": {
-              "guess": "gavel"
-            },
-            "1,2,1,0,0": {
-              "guess": "bagel"
-            },
-            "2,2,0,0,0": {
+            "0,2,0,2,2": {
               "guess": "lapel"
             },
-            "2,2,2,0,0": {
+            "0,2,1,2,2": {
+              "guess": "gavel"
+            },
+            "1,2,0,2,2": {
               "guess": "label"
             }
           }
@@ -5856,13 +5090,10 @@
           "guess": "hazel"
         },
         "0,0,0,1,0": {
-          "guess": "cigar",
+          "guess": "cagey",
           "result": {
-            "2,0,0,1,0": {
+            "2,2,0,2,0": {
               "guess": "camel"
-            },
-            "2,0,2,1,0": {
-              "guess": "cagey"
             }
           }
         },
@@ -5870,13 +5101,10 @@
           "guess": "valet"
         },
         "0,0,1,1,0": {
-          "guess": "cigar",
+          "guess": "cadet",
           "result": {
-            "1,0,0,1,0": {
+            "1,2,0,2,2": {
               "guess": "facet"
-            },
-            "2,0,0,1,0": {
-              "guess": "cadet"
             }
           }
         },
@@ -5887,16 +5115,13 @@
           "guess": "cameo"
         },
         "1,0,0,0,0": {
-          "guess": "focal",
+          "guess": "waxen",
           "result": {
-            "0,0,0,1,0": {
-              "guess": "waxen"
-            },
-            "0,0,0,1,1": {
-              "guess": "laden"
-            },
-            "0,0,0,1,2": {
+            "0,2,0,2,1": {
               "guess": "panel"
+            },
+            "0,2,0,2,2": {
+              "guess": "laden"
             }
           }
         },
@@ -5921,12 +5146,9 @@
       "guess": "gulch",
       "result": {
         "0,0,0,0,0": {
-          "guess": "rebut",
+          "guess": "payee",
           "result": {
-            "0,1,0,0,0": {
-              "guess": "payee"
-            },
-            "0,1,1,0,0": {
+            "0,2,2,0,2": {
               "guess": "maybe"
             }
           }
@@ -5988,12 +5210,9 @@
           "guess": "value"
         },
         "1,0,0,0,0": {
-          "guess": "rebut",
+          "guess": "mange",
           "result": {
-            "0,1,0,0,0": {
-              "guess": "mange"
-            },
-            "0,1,1,0,0": {
+            "0,2,0,2,2": {
               "guess": "badge"
             }
           }
@@ -6008,13 +5227,10 @@
           "guess": "gaffe"
         },
         "2,1,0,0,0": {
-          "guess": "feign",
+          "guess": "gauge",
           "result": {
-            "0,1,0,1,0": {
+            "2,2,2,0,2": {
               "guess": "gauze"
-            },
-            "0,1,0,2,0": {
-              "guess": "gauge"
             }
           }
         }
@@ -6038,12 +5254,9 @@
           }
         },
         "0,0,0,1,1": {
-          "guess": "evade",
+          "guess": "sally",
           "result": {
-            "0,0,1,0,0": {
-              "guess": "sally"
-            },
-            "0,0,1,1,0": {
+            "2,2,0,2,2": {
               "guess": "sadly"
             }
           }
@@ -6076,16 +5289,13 @@
           "guess": "salon"
         },
         "1,0,0,1,0": {
-          "guess": "repay",
+          "guess": "pasty",
           "result": {
-            "0,0,0,1,2": {
+            "0,2,2,2,2": {
               "guess": "hasty"
             },
-            "0,0,1,1,0": {
+            "2,2,2,2,0": {
               "guess": "pasta"
-            },
-            "0,0,1,1,2": {
-              "guess": "pasty"
             }
           }
         },
@@ -6190,13 +5400,10 @@
       "guess": "comet",
       "result": {
         "0,0,0,0,0": {
-          "guess": "humph",
+          "guess": "vapid",
           "result": {
-            "0,0,0,0,0": {
+            "2,2,0,2,2": {
               "guess": "valid"
-            },
-            "0,0,0,1,0": {
-              "guess": "vapid"
             }
           }
         },
@@ -6204,15 +5411,12 @@
           "guess": "habit"
         },
         "0,0,1,0,0": {
-          "guess": "naval",
+          "guess": "mafia",
           "result": {
-            "0,2,0,0,0": {
+            "2,2,0,2,0": {
               "guess": "maxim"
             },
-            "0,2,0,1,0": {
-              "guess": "mafia"
-            },
-            "1,2,0,1,0": {
+            "2,2,0,2,2": {
               "guess": "mania"
             }
           }
@@ -6227,24 +5431,18 @@
           "guess": "tacit"
         },
         "1,0,1,0,0": {
-          "guess": "cigar",
+          "guess": "manic",
           "result": {
-            "1,1,0,1,0": {
-              "guess": "manic"
-            },
-            "1,1,2,1,0": {
+            "2,2,0,2,2": {
               "guess": "magic"
             }
           }
         },
         "2,0,0,0,0": {
-          "guess": "rebut",
+          "guess": "cabin",
           "result": {
-            "0,0,0,0,0": {
+            "2,2,0,2,0": {
               "guess": "cavil"
-            },
-            "0,0,2,0,0": {
-              "guess": "cabin"
             }
           }
         },
@@ -6260,12 +5458,9 @@
           "guess": "satin"
         },
         "2,0,0,0,0": {
-          "guess": "sissy",
+          "guess": "basil",
           "result": {
-            "0,1,2,0,0": {
-              "guess": "basil"
-            },
-            "1,1,2,1,0": {
+            "2,2,2,2,0": {
               "guess": "basis"
             }
           }
@@ -6285,12 +5480,9 @@
           "guess": "daily"
         },
         "0,0,2,0,1": {
-          "guess": "humph",
+          "guess": "taint",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "taint"
-            },
-            "0,0,0,1,0": {
+            "0,2,2,2,2": {
               "guess": "paint"
             }
           }
@@ -6307,16 +5499,13 @@
       }
     },
     "0,2,2,0,2": {
-      "guess": "naval",
+      "guess": "naive",
       "result": {
-        "0,2,0,0,0": {
+        "0,2,2,0,2": {
           "guess": "maize"
         },
-        "0,2,1,0,0": {
+        "0,2,2,2,2": {
           "guess": "waive"
-        },
-        "2,2,1,0,0": {
-          "guess": "naive"
         }
       }
     },
@@ -6324,13 +5513,10 @@
       "guess": "saint"
     },
     "0,2,2,2,0": {
-      "guess": "rebut",
+      "guess": "waist",
       "result": {
-        "0,0,0,0,0": {
+        "0,2,2,2,0": {
           "guess": "daisy"
-        },
-        "0,0,0,0,2": {
-          "guess": "waist"
         }
       }
     },
@@ -6338,16 +5524,13 @@
       "guess": "count",
       "result": {
         "0,0,0,0,0": {
-          "guess": "dwarf",
+          "guess": "dryly",
           "result": {
-            "0,0,0,2,0": {
+            "0,1,1,0,1": {
               "guess": "myrrh"
             },
-            "0,1,0,1,0": {
+            "0,2,2,2,2": {
               "guess": "wryly"
-            },
-            "2,0,0,1,0": {
-              "guess": "dryly"
             }
           }
         },
@@ -6375,13 +5558,10 @@
           "guess": "burnt"
         },
         "0,0,2,0,0": {
-          "guess": "cigar",
+          "guess": "gruff",
           "result": {
-            "0,0,0,0,1": {
+            "0,1,2,0,0": {
               "guess": "blurb"
-            },
-            "0,0,1,0,1": {
-              "guess": "gruff"
             }
           }
         },
@@ -6403,12 +5583,9 @@
           "guess": "blurt"
         },
         "0,0,2,2,0": {
-          "guess": "cigar",
+          "guess": "drunk",
           "result": {
-            "0,0,0,0,1": {
-              "guess": "drunk"
-            },
-            "0,0,1,0,1": {
+            "0,2,2,2,0": {
               "guess": "wrung"
             }
           }
@@ -6417,12 +5594,9 @@
           "guess": "trunk"
         },
         "0,0,2,2,2": {
-          "guess": "cigar",
+          "guess": "brunt",
           "result": {
-            "0,0,0,0,1": {
-              "guess": "brunt"
-            },
-            "0,0,1,0,1": {
+            "0,2,2,2,2": {
               "guess": "grunt"
             }
           }
@@ -6440,12 +5614,9 @@
               "guess": "fjord"
             },
             "0,0,2,2,0": {
-              "guess": "cigar",
+              "guess": "proof",
               "result": {
-                "0,0,0,0,1": {
-                  "guess": "proof"
-                },
-                "0,0,1,0,1": {
+                "0,2,2,2,0": {
                   "guess": "groom"
                 }
               }
@@ -6454,12 +5625,9 @@
               "guess": "droop"
             },
             "0,1,2,0,0": {
-              "guess": "cigar",
+              "guess": "prowl",
               "result": {
-                "0,0,0,0,1": {
-                  "guess": "prowl"
-                },
-                "0,0,1,0,1": {
+                "0,2,2,2,2": {
                   "guess": "growl"
                 }
               }
@@ -6477,12 +5645,9 @@
               "guess": "floor"
             },
             "2,0,2,2,0": {
-              "guess": "humph",
+              "guess": "brook",
               "result": {
-                "0,0,0,0,0": {
-                  "guess": "brook"
-                },
-                "0,0,1,0,0": {
+                "2,2,2,2,0": {
                   "guess": "broom"
                 }
               }
@@ -6493,25 +5658,22 @@
           }
         },
         "0,1,0,0,1": {
-          "guess": "blush",
+          "guess": "throb",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "troop"
-            },
-            "0,0,0,0,1": {
-              "guess": "throw"
-            },
-            "0,0,0,0,2": {
+            "1,1,1,1,0": {
               "guess": "froth"
             },
-            "0,1,0,0,0": {
+            "1,1,1,1,1": {
+              "guess": "broth"
+            },
+            "2,0,1,1,0": {
               "guess": "troll"
             },
-            "1,0,0,0,1": {
-              "guess": "throb"
+            "2,0,1,2,0": {
+              "guess": "troop"
             },
-            "2,0,0,0,2": {
-              "guess": "broth"
+            "2,2,2,2,0": {
+              "guess": "throw"
             }
           }
         },
@@ -6536,16 +5698,13 @@
           "guess": "thorn"
         },
         "0,1,0,2,0": {
-          "guess": "dwarf",
+          "guess": "wrong",
           "result": {
-            "0,0,0,1,0": {
-              "guess": "prong"
-            },
-            "0,1,0,1,0": {
-              "guess": "wrong"
-            },
-            "1,0,0,1,1": {
+            "0,2,2,2,0": {
               "guess": "frond"
+            },
+            "0,2,2,2,2": {
+              "guess": "prong"
             }
           }
         },
@@ -6576,27 +5735,21 @@
           }
         },
         "0,1,1,0,1": {
-          "guess": "karma",
+          "guess": "tumor",
           "result": {
-            "0,0,1,0,0": {
-              "guess": "tutor"
-            },
-            "0,0,1,1,0": {
-              "guess": "tumor"
-            },
-            "0,0,2,0,0": {
+            "2,2,0,1,1": {
               "guess": "turbo"
+            },
+            "2,2,0,2,2": {
+              "guess": "tutor"
             }
           }
         },
         "0,1,1,0,2": {
-          "guess": "cigar",
+          "guess": "grout",
           "result": {
-            "0,0,0,0,1": {
+            "0,2,2,2,2": {
               "guess": "trout"
-            },
-            "0,0,1,0,1": {
-              "guess": "grout"
             }
           }
         },
@@ -6627,33 +5780,27 @@
           }
         },
         "0,2,0,0,1": {
-          "guess": "fresh",
+          "guess": "forty",
           "result": {
-            "0,1,0,0,0": {
+            "0,2,1,1,0": {
               "guess": "motor"
             },
-            "0,1,0,0,2": {
+            "0,2,2,2,0": {
               "guess": "worth"
             },
-            "2,1,0,0,0": {
-              "guess": "forty"
-            },
-            "2,1,0,0,2": {
+            "2,2,2,2,0": {
               "guess": "forth"
             }
           }
         },
         "0,2,0,1,0": {
-          "guess": "humph",
+          "guess": "honor",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "donor"
-            },
-            "0,0,1,0,0": {
+            "0,2,1,2,1": {
               "guess": "moron"
             },
-            "2,0,0,0,0": {
-              "guess": "honor"
+            "0,2,2,2,2": {
+              "guess": "donor"
             }
           }
         },
@@ -6708,13 +5855,10 @@
           }
         },
         "2,0,2,0,0": {
-          "guess": "rebut",
+          "guess": "crumb",
           "result": {
-            "1,0,0,1,0": {
+            "2,2,2,2,0": {
               "guess": "crump"
-            },
-            "1,0,1,1,0": {
-              "guess": "crumb"
             }
           }
         },
@@ -6722,19 +5866,16 @@
           "guess": "churn"
         },
         "2,1,0,0,0": {
-          "guess": "dutch",
+          "guess": "crook",
           "result": {
-            "0,0,0,1,0": {
-              "guess": "crook"
+            "2,1,2,0,0": {
+              "guess": "chord"
             },
-            "0,0,0,2,0": {
-              "guess": "crock"
-            },
-            "1,0,0,1,0": {
+            "2,2,2,0,0": {
               "guess": "crowd"
             },
-            "1,0,0,1,1": {
-              "guess": "chord"
+            "2,2,2,0,2": {
+              "guess": "crock"
             }
           }
         },
@@ -6759,448 +5900,399 @@
       }
     },
     "1,0,0,0,1": {
-      "guess": "tweed",
+      "guess": "outer",
       "result": {
-        "0,0,0,2,0": {
-          "guess": "vouch",
+        "0,0,0,1,1": {
+          "guess": "clerk",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "flyer"
-            },
-            "0,0,0,0,1": {
-              "guess": "hyper"
-            },
-            "0,0,0,1,0": {
-              "guess": "cyber"
-            },
-            "0,0,1,0,0": {
-              "guess": "humph",
-              "result": {
-                "0,1,0,1,0": {
-                  "guess": "upper"
-                },
-                "0,2,0,0,0": {
-                  "guess": "buyer"
-                },
-                "0,2,0,1,0": {
-                  "guess": "purer"
-                }
-              }
-            },
             "0,0,1,1,0": {
-              "guess": "ulcer"
-            },
-            "0,0,2,0,0": {
-              "guess": "cigar",
+              "guess": "nerdy",
               "result": {
-                "0,0,0,0,2": {
-                  "guess": "bluer"
-                },
-                "0,0,1,0,1": {
-                  "guess": "gruel"
+                "0,2,2,1,2": {
+                  "guess": "derby"
                 }
               }
             },
-            "0,0,2,1,0": {
-              "guess": "cruel"
-            },
-            "0,1,0,0,0": {
-              "guess": "offer"
-            },
-            "0,2,0,0,0": {
-              "guess": "pinky",
+            "0,0,1,1,1": {
+              "guess": "jerky",
               "result": {
-                "0,0,0,0,0": {
-                  "guess": "boxer"
-                },
-                "0,0,0,0,1": {
-                  "guess": "foyer"
-                },
-                "0,0,0,1,0": {
-                  "guess": "joker"
-                },
-                "0,0,2,0,0": {
-                  "guess": "goner"
-                },
-                "2,0,0,1,0": {
-                  "guess": "poker"
-                }
-              }
-            },
-            "0,2,0,0,1": {
-              "guess": "homer"
-            },
-            "0,2,0,1,0": {
-              "guess": "corer"
-            },
-            "1,2,0,0,0": {
-              "guess": "humph",
-              "result": {
-                "0,0,0,0,0": {
-                  "guess": "lover"
-                },
-                "0,0,1,0,0": {
-                  "guess": "mover"
-                }
-              }
-            },
-            "1,2,0,0,1": {
-              "guess": "hover"
-            },
-            "1,2,0,1,0": {
-              "guess": "cover"
-            }
-          }
-        },
-        "0,0,0,2,1": {
-          "guess": "oddly",
-          "result": {
-            "0,0,2,0,0": {
-              "guess": "under"
-            },
-            "0,1,1,0,1": {
-              "guess": "dryer"
-            },
-            "0,2,2,0,0": {
-              "guess": "udder"
-            },
-            "2,0,2,0,0": {
-              "guess": "order"
-            },
-            "2,0,2,1,0": {
-              "guess": "older"
-            },
-            "2,2,2,0,0": {
-              "guess": "odder"
-            }
-          }
-        },
-        "0,0,1,1,0": {
-          "guess": "myrrh",
-          "result": {
-            "0,0,2,0,1": {
-              "guess": "heron"
-            },
-            "0,0,2,0,2": {
-              "guess": "perch"
-            },
-            "0,0,2,1,0": {
-              "guess": "error"
-            },
-            "0,1,2,0,0": {
-              "guess": "humph",
-              "result": {
-                "0,0,0,0,0": {
-                  "guess": "jerky"
-                },
-                "0,0,0,1,0": {
+                "0,2,2,2,2": {
                   "guess": "perky"
                 }
               }
             },
-            "0,1,2,2,0": {
-              "guess": "rebut",
+            "0,0,1,2,0": {
+              "guess": "flume",
               "result": {
-                "1,2,0,0,0": {
-                  "guess": "ferry"
-                },
-                "1,2,1,0,0": {
+                "0,0,0,0,1": {
                   "guess": "berry"
-                }
-              }
-            },
-            "1,0,1,1,0": {
-              "guess": "blush",
-              "result": {
-                "0,0,1,0,0": {
-                  "guess": "femur"
                 },
-                "0,1,1,0,0": {
-                  "guess": "lemur"
+                "0,0,0,1,1": {
+                  "guess": "merry"
+                },
+                "2,0,0,0,1": {
+                  "guess": "ferry"
                 }
               }
             },
-            "2,1,2,0,0": {
-              "guess": "mercy"
-            },
-            "2,1,2,2,0": {
-              "guess": "merry"
-            }
-          }
-        },
-        "0,0,1,1,1": {
-          "guess": "corny",
-          "result": {
-            "0,0,1,0,0": {
-              "guess": "demur"
-            },
-            "0,0,2,0,2": {
-              "guess": "derby"
-            },
-            "0,0,2,1,2": {
-              "guess": "nerdy"
-            },
-            "1,0,1,0,2": {
-              "guess": "decry"
-            },
-            "1,1,1,0,0": {
-              "guess": "decor"
-            }
-          }
-        },
-        "0,0,1,2,0": {
-          "guess": "naval",
-          "result": {
-            "0,0,0,0,0": {
-              "guess": "ember"
-            },
-            "0,0,0,0,1": {
-              "guess": "leper"
-            },
-            "0,0,2,0,0": {
-              "guess": "fever"
-            },
-            "0,0,2,0,1": {
-              "guess": "lever"
-            },
-            "2,0,2,0,0": {
-              "guess": "never"
-            }
-          }
-        },
-        "0,0,1,2,1": {
-          "guess": "rebut",
-          "result": {
-            "1,1,0,0,0": {
-              "guess": "elder"
-            },
-            "1,2,0,0,0": {
-              "guess": "defer"
-            }
-          }
-        },
-        "0,0,2,0,0": {
-          "guess": "cigar",
-          "result": {
-            "0,0,0,0,1": {
-              "guess": "query"
-            },
-            "2,0,0,0,1": {
-              "guess": "clerk"
-            }
-          }
-        },
-        "0,0,2,0,1": {
-          "guess": "credo"
-        },
-        "0,0,2,1,0": {
-          "guess": "rebut",
-          "result": {
-            "1,1,0,0,0": {
+            "0,0,2,2,0": {
               "guess": "every"
             },
-            "1,2,0,0,0": {
+            "0,1,2,2,0": {
               "guess": "leery"
+            },
+            "1,0,1,1,0": {
+              "guess": "mercy",
+              "result": {
+                "0,2,2,2,0": {
+                  "guess": "perch"
+                }
+              }
+            },
+            "1,0,1,2,0": {
+              "guess": "decry"
+            },
+            "1,0,2,1,2": {
+              "guess": "wreck"
             }
           }
         },
-        "0,0,2,2,0": {
-          "guess": "punch",
+        "0,0,0,2,1": {
+          "guess": "pudgy",
           "result": {
             "0,0,0,0,0": {
-              "guess": "freer"
-            },
-            "0,0,0,1,0": {
               "guess": "creek"
             },
-            "0,0,0,1,1": {
-              "guess": "cheer"
-            },
-            "0,0,1,0,0": {
+            "0,0,0,1,0": {
               "guess": "green"
             },
-            "0,2,0,0,0": {
-              "guess": "queer"
+            "0,0,1,0,0": {
+              "guess": "focal",
+              "result": {
+                "0,0,0,0,0": {
+                  "guess": "breed"
+                },
+                "0,0,1,0,0": {
+                  "guess": "creed"
+                },
+                "2,0,0,0,0": {
+                  "guess": "freed"
+                }
+              }
             },
-            "1,0,0,1,0": {
+            "0,0,1,1,0": {
+              "guess": "greed"
+            },
+            "1,0,0,0,0": {
               "guess": "creep"
             },
-            "2,0,1,0,0": {
+            "2,0,0,0,0": {
               "guess": "preen"
             }
           }
         },
-        "0,0,2,2,2": {
-          "guess": "cigar",
+        "0,0,0,2,2": {
+          "guess": "bevel",
           "result": {
-            "0,0,0,0,1": {
-              "guess": "rebut",
+            "0,0,0,2,0": {
+              "guess": "dryer",
               "result": {
-                "1,1,0,0,0": {
-                  "guess": "freed"
-                },
-                "1,1,1,0,0": {
-                  "guess": "breed"
+                "0,0,1,2,2": {
+                  "guess": "hyper"
                 }
               }
             },
-            "0,0,1,0,1": {
-              "guess": "greed"
+            "0,0,0,2,1": {
+              "guess": "flyer"
             },
-            "2,0,0,0,1": {
-              "guess": "creed"
+            "0,1,0,2,0": {
+              "guess": "cheer",
+              "result": {
+                "0,0,2,2,2": {
+                  "guess": "freer"
+                }
+              }
+            },
+            "0,1,0,2,1": {
+              "guess": "elder"
+            },
+            "0,2,0,2,0": {
+              "guess": "newer",
+              "result": {
+                "0,2,0,2,2": {
+                  "guess": "defer"
+                },
+                "0,2,2,2,2": {
+                  "guess": "fewer"
+                }
+              }
+            },
+            "0,2,0,2,1": {
+              "guess": "leper"
+            },
+            "0,2,2,2,0": {
+              "guess": "fever",
+              "result": {
+                "0,2,2,2,2": {
+                  "guess": "never"
+                }
+              }
+            },
+            "0,2,2,2,1": {
+              "guess": "lever"
+            },
+            "1,0,0,2,0": {
+              "guess": "cyber"
+            },
+            "1,1,0,2,0": {
+              "guess": "ember"
             }
           }
         },
-        "0,1,0,2,0": {
-          "guess": "clamp",
+        "0,0,1,1,1": {
+          "guess": "exert",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "wooer"
+            "0,0,2,1,1": {
+              "guess": "trend"
             },
-            "0,0,0,0,1": {
-              "guess": "power"
-            },
-            "0,0,0,1,0": {
-              "guess": "mower"
-            },
-            "0,1,0,0,0": {
-              "guess": "lower"
-            },
-            "2,0,0,0,0": {
-              "guess": "cower"
-            }
-          }
-        },
-        "0,1,1,2,0": {
-          "guess": "focal",
-          "result": {
-            "0,0,0,0,0": {
-              "guess": "newer"
-            },
-            "2,0,0,0,0": {
-              "guess": "fewer"
-            }
-          }
-        },
-        "0,1,2,0,0": {
-          "guess": "wreck"
-        },
-        "0,2,0,2,0": {
-          "guess": "owner"
-        },
-        "1,0,0,2,0": {
-          "guess": "outdo",
-          "result": {
-            "0,1,2,0,0": {
-              "guess": "utter"
-            },
-            "1,0,2,0,1": {
-              "guess": "voter"
-            },
-            "2,0,1,0,0": {
-              "guess": "other"
-            },
-            "2,0,2,0,0": {
-              "guess": "otter"
-            },
-            "2,2,2,0,0": {
-              "guess": "outer"
-            }
-          }
-        },
-        "1,0,1,1,0": {
-          "guess": "rebut",
-          "result": {
-            "1,1,0,0,1": {
-              "guess": "entry"
-            },
-            "1,1,0,1,2": {
-              "guess": "erupt"
-            },
-            "1,2,0,0,1": {
-              "guess": "metro"
-            },
-            "1,2,1,0,1": {
-              "guess": "berth"
-            }
-          }
-        },
-        "1,0,1,2,0": {
-          "guess": "bench",
-          "result": {
-            "0,1,0,0,0": {
-              "guess": "egret"
-            },
-            "0,1,0,0,1": {
-              "guess": "ether"
-            },
-            "0,1,1,0,0": {
-              "guess": "enter"
-            },
-            "0,2,0,0,0": {
-              "guess": "meter"
-            },
-            "2,2,0,0,0": {
-              "guess": "beret"
-            }
-          }
-        },
-        "1,0,1,2,1": {
-          "guess": "deter"
-        },
-        "1,0,2,0,0": {
-          "guess": "cigar",
-          "result": {
-            "0,0,0,0,1": {
-              "guess": "overt"
-            },
-            "2,0,0,0,1": {
+            "0,0,2,1,2": {
               "guess": "crept"
-            }
-          }
-        },
-        "1,0,2,1,0": {
-          "guess": "cigar",
-          "result": {
-            "0,0,0,0,1": {
-              "guess": "exert"
             },
-            "1,0,0,0,1": {
+            "1,0,1,1,1": {
+              "guess": "berth"
+            },
+            "2,0,2,1,2": {
               "guess": "erect"
             }
           }
         },
-        "1,0,2,2,0": {
-          "guess": "greet"
-        },
-        "2,0,0,2,0": {
-          "guess": "rebut",
+        "0,0,1,2,1": {
+          "guess": "beret",
           "result": {
-            "1,1,0,1,1": {
-              "guess": "truer"
-            },
-            "1,1,2,1,1": {
-              "guess": "tuber"
-            }
-          }
-        },
-        "2,0,1,1,0": {
-          "guess": "tenor"
-        },
-        "2,0,2,0,2": {
-          "guess": "trend"
-        },
-        "2,1,0,2,0": {
-          "guess": "cigar",
-          "result": {
-            "0,0,0,0,1": {
+            "0,0,2,2,1": {
               "guess": "threw"
             },
-            "0,0,0,0,2": {
-              "guess": "tower"
+            "0,1,1,2,2": {
+              "guess": "greet"
+            },
+            "0,1,2,2,2": {
+              "guess": "egret"
             }
           }
+        },
+        "0,0,1,2,2": {
+          "guess": "ether"
+        },
+        "0,0,2,1,1": {
+          "guess": "entry"
+        },
+        "0,0,2,2,2": {
+          "guess": "meter",
+          "result": {
+            "0,1,2,2,2": {
+              "guess": "enter"
+            },
+            "0,2,2,2,2": {
+              "guess": "deter"
+            }
+          }
+        },
+        "0,1,0,1,2": {
+          "guess": "focal",
+          "result": {
+            "0,0,0,0,0": {
+              "guess": "demur"
+            },
+            "0,0,0,0,1": {
+              "guess": "lemur"
+            },
+            "2,0,0,0,0": {
+              "guess": "femur"
+            }
+          }
+        },
+        "0,1,0,2,1": {
+          "guess": "cruel",
+          "result": {
+            "0,2,2,2,2": {
+              "guess": "gruel"
+            }
+          }
+        },
+        "0,1,0,2,2": {
+          "guess": "pound",
+          "result": {
+            "0,0,1,0,0": {
+              "guess": "ulcer"
+            },
+            "0,0,1,0,1": {
+              "guess": "udder"
+            },
+            "0,0,1,1,1": {
+              "guess": "under"
+            },
+            "0,0,2,0,0": {
+              "guess": "bluer"
+            },
+            "1,0,1,0,0": {
+              "guess": "upper"
+            }
+          }
+        },
+        "0,1,1,1,1": {
+          "guess": "erupt"
+        },
+        "0,1,1,2,2": {
+          "guess": "truer"
+        },
+        "0,1,2,2,2": {
+          "guess": "utter"
+        },
+        "0,2,0,1,1": {
+          "guess": "query"
+        },
+        "0,2,0,2,2": {
+          "guess": "marry",
+          "result": {
+            "0,0,1,1,0": {
+              "guess": "queer"
+            },
+            "0,0,1,1,1": {
+              "guess": "buyer"
+            },
+            "0,0,2,1,0": {
+              "guess": "purer"
+            }
+          }
+        },
+        "0,2,1,2,2": {
+          "guess": "tuber"
+        },
+        "1,0,0,1,1": {
+          "guess": "credo",
+          "result": {
+            "0,1,1,0,1": {
+              "guess": "heron"
+            }
+          }
+        },
+        "1,0,0,1,2": {
+          "guess": "decor",
+          "result": {
+            "0,1,0,2,2": {
+              "guess": "error"
+            }
+          }
+        },
+        "1,0,0,2,2": {
+          "guess": "whack",
+          "result": {
+            "0,0,0,0,0": {
+              "guess": "vinyl",
+              "result": {
+                "0,0,0,0,0": {
+                  "guess": "boxer"
+                },
+                "0,0,0,1,0": {
+                  "guess": "foyer"
+                },
+                "0,0,2,0,0": {
+                  "guess": "goner"
+                },
+                "1,0,0,0,0": {
+                  "guess": "mover"
+                },
+                "1,0,0,0,1": {
+                  "guess": "lover"
+                }
+              }
+            },
+            "0,0,0,0,1": {
+              "guess": "joker",
+              "result": {
+                "0,2,2,2,2": {
+                  "guess": "poker"
+                }
+              }
+            },
+            "0,0,0,1,0": {
+              "guess": "corer",
+              "result": {
+                "2,2,0,2,2": {
+                  "guess": "cover"
+                }
+              }
+            },
+            "0,1,0,0,0": {
+              "guess": "hover",
+              "result": {
+                "2,2,0,2,2": {
+                  "guess": "homer"
+                }
+              }
+            },
+            "1,0,0,0,0": {
+              "guess": "humph",
+              "result": {
+                "0,0,0,0,0": {
+                  "guess": "lower"
+                },
+                "0,0,0,1,0": {
+                  "guess": "power"
+                },
+                "0,0,1,0,0": {
+                  "guess": "mower"
+                }
+              }
+            },
+            "1,0,0,1,0": {
+              "guess": "cower"
+            },
+            "2,0,0,0,0": {
+              "guess": "wooer"
+            }
+          }
+        },
+        "1,0,1,1,2": {
+          "guess": "tenor"
+        },
+        "1,0,1,2,2": {
+          "guess": "tower"
+        },
+        "1,0,2,1,1": {
+          "guess": "metro"
+        },
+        "1,0,2,2,2": {
+          "guess": "voter"
+        },
+        "2,0,0,2,2": {
+          "guess": "drawl",
+          "result": {
+            "0,1,0,0,0": {
+              "guess": "offer"
+            },
+            "0,1,0,1,0": {
+              "guess": "owner"
+            },
+            "1,1,0,0,0": {
+              "guess": "odder"
+            },
+            "1,1,0,0,1": {
+              "guess": "older"
+            },
+            "1,2,0,0,0": {
+              "guess": "order"
+            }
+          }
+        },
+        "2,0,1,1,1": {
+          "guess": "overt"
+        },
+        "2,0,1,2,2": {
+          "guess": "other"
+        },
+        "2,0,2,2,2": {
+          "guess": "otter"
         }
       }
     },
@@ -7208,32 +6300,26 @@
       "guess": "prong",
       "result": {
         "0,1,0,0,0": {
-          "guess": "blurt",
+          "guess": "three",
           "result": {
-            "0,0,0,1,0": {
+            "0,0,2,0,2": {
+              "guess": "curve"
+            },
+            "0,0,2,1,2": {
               "guess": "verve"
             },
-            "0,0,0,1,1": {
-              "guess": "three"
-            },
-            "0,0,0,2,0": {
+            "0,2,1,1,2": {
               "guess": "where"
             },
-            "0,0,0,2,1": {
+            "2,2,1,1,2": {
               "guess": "there"
-            },
-            "0,0,1,1,0": {
-              "guess": "curve"
             }
           }
         },
         "0,1,0,0,1": {
-          "guess": "humph",
+          "guess": "verge",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "verge"
-            },
-            "0,0,1,0,0": {
+            "0,2,2,2,2": {
               "guess": "merge"
             }
           }
@@ -7245,29 +6331,23 @@
           "guess": "genre"
         },
         "0,1,1,0,0": {
-          "guess": "focal",
+          "guess": "forte",
           "result": {
-            "0,1,0,0,0": {
+            "0,1,1,0,2": {
               "guess": "ombre"
             },
-            "0,2,0,0,0": {
+            "0,2,2,0,2": {
               "guess": "horde"
             },
-            "2,2,0,0,0": {
-              "guess": "forte"
-            },
-            "2,2,1,0,0": {
+            "2,2,2,0,2": {
               "guess": "force"
             }
           }
         },
         "0,1,1,0,1": {
-          "guess": "focal",
+          "guess": "gorge",
           "result": {
-            "0,2,0,0,0": {
-              "guess": "gorge"
-            },
-            "2,2,0,0,0": {
+            "0,2,2,2,2": {
               "guess": "forge"
             }
           }
@@ -7279,19 +6359,16 @@
           "guess": "chore"
         },
         "0,2,0,0,0": {
-          "guess": "rebut",
+          "guess": "brute",
           "result": {
-            "1,1,0,0,0": {
+            "0,2,0,0,2": {
               "guess": "creme"
             },
-            "1,1,0,1,0": {
+            "0,2,2,0,2": {
               "guess": "crude"
             },
-            "1,1,0,1,1": {
+            "0,2,2,1,2": {
               "guess": "truce"
-            },
-            "1,1,1,1,1": {
-              "guess": "brute"
             }
           }
         },
@@ -7299,13 +6376,10 @@
           "guess": "dwarf",
           "result": {
             "0,0,0,1,0": {
-              "guess": "rebut",
+              "guess": "broke",
               "result": {
-                "1,1,0,0,1": {
+                "0,2,2,0,2": {
                   "guess": "trove"
-                },
-                "1,1,1,0,0": {
-                  "guess": "broke"
                 }
               }
             },
@@ -7327,13 +6401,10 @@
           "guess": "grove"
         },
         "0,2,2,2,0": {
-          "guess": "cigar",
+          "guess": "crone",
           "result": {
-            "0,0,0,0,1": {
+            "0,2,2,2,2": {
               "guess": "drone"
-            },
-            "2,0,0,0,1": {
-              "guess": "crone"
             }
           }
         },
@@ -7359,13 +6430,10 @@
           "guess": "prune"
         },
         "2,2,2,0,0": {
-          "guess": "rebut",
+          "guess": "probe",
           "result": {
-            "1,1,0,0,0": {
+            "2,2,2,0,2": {
               "guess": "prove"
-            },
-            "1,1,1,0,0": {
-              "guess": "probe"
             }
           }
         },
@@ -7378,18 +6446,15 @@
       "guess": "count",
       "result": {
         "0,0,1,0,0": {
-          "guess": "blush",
+          "guess": "shrug",
           "result": {
-            "0,0,1,1,0": {
-              "guess": "syrup"
-            },
-            "0,0,1,1,1": {
-              "guess": "shrug"
-            },
-            "0,1,1,1,0": {
+            "2,0,2,1,0": {
               "guess": "surly"
             },
-            "1,0,1,1,1": {
+            "2,0,2,2,0": {
+              "guess": "syrup"
+            },
+            "2,2,2,2,0": {
               "guess": "shrub"
             }
           }
@@ -7398,13 +6463,10 @@
           "guess": "strut"
         },
         "0,0,2,0,0": {
-          "guess": "sissy",
+          "guess": "slurp",
           "result": {
-            "1,0,1,1,0": {
+            "1,0,2,2,2": {
               "guess": "usurp"
-            },
-            "2,0,0,0,0": {
-              "guess": "slurp"
             }
           }
         },
@@ -7432,24 +6494,18 @@
           }
         },
         "0,1,0,0,2": {
-          "guess": "humph",
+          "guess": "short",
           "result": {
-            "0,0,0,1,0": {
+            "2,0,2,2,2": {
               "guess": "sport"
-            },
-            "1,0,0,0,1": {
-              "guess": "short"
             }
           }
         },
         "0,1,0,1,0": {
-          "guess": "humph",
+          "guess": "shorn",
           "result": {
-            "0,0,0,0,0": {
+            "2,0,2,2,2": {
               "guess": "sworn"
-            },
-            "1,0,0,0,1": {
-              "guess": "shorn"
             }
           }
         },
@@ -7463,12 +6519,9 @@
           "guess": "torus"
         },
         "1,0,1,0,0": {
-          "guess": "rebut",
+          "guess": "scrum",
           "result": {
-            "1,0,0,2,0": {
-              "guess": "scrum"
-            },
-            "1,0,1,2,0": {
+            "2,2,2,2,0": {
               "guess": "scrub"
             }
           }
@@ -7485,12 +6538,9 @@
       "guess": "sweep",
       "result": {
         "1,0,0,2,0": {
-          "guess": "rebut",
+          "guess": "loser",
           "result": {
-            "1,1,0,0,0": {
-              "guess": "loser"
-            },
-            "1,1,0,1,0": {
+            "0,0,1,2,2": {
               "guess": "usher"
             }
           }
@@ -7502,13 +6552,10 @@
           "guess": "ester"
         },
         "2,0,0,2,0": {
-          "guess": "rebut",
+          "guess": "sober",
           "result": {
-            "1,1,0,1,0": {
+            "2,0,0,2,2": {
               "guess": "surer"
-            },
-            "1,1,2,0,0": {
-              "guess": "sober"
             }
           }
         },
@@ -7542,16 +6589,13 @@
           }
         },
         "2,1,0,2,0": {
-          "guess": "cigar",
+          "guess": "screw",
           "result": {
-            "0,0,0,0,1": {
-              "guess": "shrew"
-            },
-            "0,0,0,0,2": {
+            "2,0,1,2,1": {
               "guess": "sower"
             },
-            "1,0,0,0,1": {
-              "guess": "screw"
+            "2,0,2,2,2": {
+              "guess": "shrew"
             }
           }
         },
@@ -7619,13 +6663,10 @@
           "guess": "trust"
         },
         "0,1,0,0,0": {
-          "guess": "cigar",
+          "guess": "gross",
           "result": {
-            "0,0,0,0,1": {
+            "0,2,2,2,2": {
               "guess": "dross"
-            },
-            "0,0,1,0,1": {
-              "guess": "gross"
             }
           }
         },
@@ -7653,12 +6694,9 @@
       "guess": "dutch",
       "result": {
         "0,0,0,0,0": {
-          "guess": "rebut",
+          "guess": "press",
           "result": {
-            "1,1,0,0,0": {
-              "guess": "press"
-            },
-            "1,2,0,0,0": {
+            "0,1,1,2,0": {
               "guess": "verso"
             }
           }
@@ -7687,12 +6725,9 @@
           "guess": "terse"
         },
         "0,0,1,0,0": {
-          "guess": "humph",
+          "guess": "nurse",
           "result": {
-            "0,2,0,0,0": {
-              "guess": "nurse"
-            },
-            "0,2,0,1,0": {
+            "0,2,2,2,2": {
               "guess": "purse"
             }
           }
@@ -7718,27 +6753,21 @@
       "guess": "grout",
       "result": {
         "0,1,0,0,0": {
-          "guess": "cigar",
+          "guess": "lyric",
           "result": {
-            "1,1,0,0,1": {
-              "guess": "lyric"
-            },
-            "1,2,0,0,1": {
+            "0,0,2,1,1": {
               "guess": "birch"
             }
           }
         },
         "0,1,0,0,1": {
-          "guess": "humph",
+          "guess": "mirth",
           "result": {
-            "0,0,0,0,0": {
+            "0,2,2,2,0": {
               "guess": "dirty"
             },
-            "0,0,0,0,2": {
+            "0,2,2,2,2": {
               "guess": "birth"
-            },
-            "0,0,1,0,2": {
-              "guess": "mirth"
             }
           }
         },
@@ -7749,13 +6778,10 @@
           "guess": "incur"
         },
         "0,1,1,0,0": {
-          "guess": "cigar",
+          "guess": "micro",
           "result": {
-            "0,2,0,0,2": {
+            "2,2,0,1,1": {
               "guess": "minor"
-            },
-            "1,2,0,0,1": {
-              "guess": "micro"
             }
           }
         },
@@ -7766,13 +6792,10 @@
           "guess": "curio"
         },
         "0,1,2,0,0": {
-          "guess": "cigar",
+          "guess": "choir",
           "result": {
-            "0,1,0,0,1": {
+            "0,0,2,1,1": {
               "guess": "ivory"
-            },
-            "2,1,0,0,2": {
-              "guess": "choir"
             }
           }
         },
@@ -7786,13 +6809,10 @@
           "guess": "orbit"
         },
         "0,2,2,0,0": {
-          "guess": "rebut",
+          "guess": "broil",
           "result": {
-            "1,0,0,0,0": {
+            "0,2,2,1,0": {
               "guess": "irony"
-            },
-            "1,0,1,0,0": {
-              "guess": "broil"
             }
           }
         },
@@ -7817,12 +6837,9 @@
       "guess": "fiend",
       "result": {
         "0,1,1,0,0": {
-          "guess": "rebut",
+          "guess": "peril",
           "result": {
-            "1,2,0,0,0": {
-              "guess": "peril"
-            },
-            "1,2,0,0,2": {
+            "0,2,2,2,0": {
               "guess": "merit"
             }
           }
@@ -7831,12 +6848,9 @@
           "guess": "idler"
         },
         "0,1,1,1,0": {
-          "guess": "rebut",
+          "guess": "inner",
           "result": {
-            "1,1,0,0,0": {
-              "guess": "inner"
-            },
-            "1,1,0,0,1": {
+            "2,2,0,2,2": {
               "guess": "inter"
             }
           }
@@ -7871,30 +6885,24 @@
           }
         },
         "0,2,1,0,1": {
-          "guess": "dwarf",
+          "guess": "cider",
           "result": {
-            "1,0,0,1,0": {
-              "guess": "cider"
-            },
-            "1,1,0,1,0": {
-              "guess": "wider"
-            },
-            "2,0,0,1,0": {
+            "0,2,1,2,2": {
               "guess": "diver"
+            },
+            "0,2,2,2,2": {
+              "guess": "wider"
             }
           }
         },
         "0,2,1,1,0": {
-          "guess": "focal",
+          "guess": "miner",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "miner"
-            },
-            "0,0,0,0,1": {
-              "guess": "liner"
-            },
-            "0,0,2,0,0": {
+            "0,2,1,2,2": {
               "guess": "nicer"
+            },
+            "0,2,2,2,2": {
+              "guess": "liner"
             }
           }
         },
@@ -7927,50 +6935,41 @@
       }
     },
     "1,0,1,0,2": {
-      "guess": "cigar",
+      "guess": "dirge",
       "result": {
-        "0,1,0,0,1": {
+        "0,1,2,0,2": {
           "guess": "eerie"
         },
-        "0,2,0,0,1": {
+        "0,2,1,0,2": {
           "guess": "fibre"
-        },
-        "0,2,1,0,1": {
-          "guess": "dirge"
         }
       }
     },
     "1,0,1,1,0": {
-      "guess": "cigar",
+      "guess": "sprig",
       "result": {
-        "0,1,0,0,1": {
-          "guess": "strip"
+        "1,0,1,1,0": {
+          "guess": "visor"
         },
-        "0,1,1,0,1": {
-          "guess": "sprig"
-        },
-        "0,2,0,0,1": {
+        "1,0,2,1,0": {
           "guess": "virus"
         },
-        "0,2,0,0,2": {
-          "guess": "visor"
+        "2,1,2,2,0": {
+          "guess": "strip"
         }
       }
     },
     "1,0,1,1,1": {
-      "guess": "sower",
+      "guess": "wiser",
       "result": {
-        "1,0,0,2,2": {
-          "guess": "miser"
-        },
-        "1,0,1,2,2": {
-          "guess": "wiser"
-        },
-        "2,0,0,1,1": {
+        "0,1,1,1,1": {
           "guess": "serif"
         },
-        "2,0,0,2,1": {
+        "0,2,1,2,1": {
           "guess": "siren"
+        },
+        "0,2,2,2,2": {
+          "guess": "miser"
         }
       }
     },
@@ -7981,18 +6980,15 @@
       "guess": "plunk",
       "result": {
         "0,0,0,0,0": {
-          "guess": "heath",
+          "guess": "drift",
           "result": {
-            "0,0,0,0,0": {
+            "0,2,2,0,0": {
               "guess": "grimy"
             },
-            "0,0,0,1,0": {
-              "guess": "drift"
-            },
-            "0,0,0,2,0": {
+            "0,2,2,1,1": {
               "guess": "fritz"
             },
-            "1,0,0,1,1": {
+            "1,1,2,0,1": {
               "guess": "third"
             }
           }
@@ -8012,30 +7008,24 @@
           }
         },
         "0,0,0,2,0": {
-          "guess": "dowry",
+          "guess": "wring",
           "result": {
-            "0,0,0,1,0": {
-              "guess": "bring"
-            },
-            "0,0,0,1,2": {
+            "0,2,2,2,0": {
               "guess": "briny"
             },
-            "0,0,1,1,0": {
-              "guess": "wring"
-            },
-            "1,0,0,1,0": {
+            "0,2,2,2,1": {
               "guess": "grind"
+            },
+            "0,2,2,2,2": {
+              "guess": "bring"
             }
           }
         },
         "0,0,0,2,2": {
-          "guess": "rebut",
+          "guess": "brink",
           "result": {
-            "1,0,0,0,0": {
+            "0,2,2,2,2": {
               "guess": "drink"
-            },
-            "1,0,1,0,0": {
-              "guess": "brink"
             }
           }
         },
@@ -8069,26 +7059,20 @@
           "guess": "flirt"
         },
         "1,0,0,0,0": {
-          "guess": "humph",
+          "guess": "chirp",
           "result": {
-            "0,0,1,1,0": {
+            "2,0,2,1,2": {
               "guess": "crimp"
-            },
-            "1,0,0,1,1": {
-              "guess": "chirp"
             }
           }
         },
         "2,0,0,0,0": {
-          "guess": "model",
+          "guess": "prior",
           "result": {
-            "0,0,0,0,0": {
+            "2,2,2,0,0": {
               "guess": "privy"
             },
-            "0,1,0,0,0": {
-              "guess": "prior"
-            },
-            "1,1,0,0,0": {
+            "2,2,2,1,0": {
               "guess": "primo"
             }
           }
@@ -8114,12 +7098,9 @@
           "guess": "crier"
         },
         "0,2,0,1,0": {
-          "guess": "cigar",
+          "guess": "brief",
           "result": {
-            "0,1,0,0,1": {
-              "guess": "brief"
-            },
-            "0,1,1,0,1": {
+            "0,2,2,2,2": {
               "guess": "grief"
             }
           }
@@ -8128,13 +7109,10 @@
           "guess": "weird"
         },
         "1,2,0,0,0": {
-          "guess": "cigar",
+          "guess": "cried",
           "result": {
-            "0,1,0,0,1": {
+            "0,2,2,2,2": {
               "guess": "pried"
-            },
-            "2,1,0,0,1": {
-              "guess": "cried"
             }
           }
         },
@@ -8145,12 +7123,9 @@
           "guess": "fried"
         },
         "2,2,0,0,0": {
-          "guess": "cigar",
+          "guess": "dried",
           "result": {
-            "0,1,0,0,1": {
-              "guess": "dried"
-            },
-            "0,1,0,0,2": {
+            "2,2,2,2,0": {
               "guess": "drier"
             }
           }
@@ -8178,35 +7153,26 @@
           }
         },
         "0,0,0,0,1": {
-          "guess": "cigar",
+          "guess": "price",
           "result": {
-            "0,1,0,0,1": {
-              "guess": "evade",
+            "1,2,2,0,2": {
+              "guess": "gripe"
+            },
+            "2,2,2,0,2": {
+              "guess": "prize",
               "result": {
-                "0,0,0,0,2": {
-                  "guess": "prize"
-                },
-                "0,0,0,2,2": {
+                "2,2,2,0,2": {
                   "guess": "pride"
                 }
               }
-            },
-            "0,1,1,0,1": {
-              "guess": "gripe"
-            },
-            "1,1,0,0,1": {
-              "guess": "price"
             }
           }
         },
         "0,0,0,2,0": {
-          "guess": "cigar",
+          "guess": "crime",
           "result": {
-            "0,1,1,0,1": {
+            "0,2,2,2,2": {
               "guess": "grime"
-            },
-            "2,1,0,0,1": {
-              "guess": "crime"
             }
           }
         },
@@ -8239,21 +7205,18 @@
       }
     },
     "1,0,2,1,0": {
-      "guess": "thumb",
+      "guess": "shirk",
       "result": {
-        "0,0,0,0,0": {
+        "2,0,2,2,0": {
           "guess": "swirl"
         },
-        "0,0,0,1,0": {
-          "guess": "smirk"
-        },
-        "0,2,0,0,0": {
-          "guess": "shirk"
-        },
-        "1,0,0,0,0": {
+        "2,0,2,2,1": {
           "guess": "skirt"
         },
-        "1,2,0,0,0": {
+        "2,0,2,2,2": {
+          "guess": "smirk"
+        },
+        "2,2,2,2,0": {
           "guess": "shirt"
         }
       }
@@ -8262,12 +7225,9 @@
       "guess": "skier"
     },
     "1,0,2,1,2": {
-      "guess": "humph",
+      "guess": "spire",
       "result": {
-        "0,0,0,1,0": {
-          "guess": "spire"
-        },
-        "1,0,0,0,1": {
+        "2,0,2,2,2": {
           "guess": "shire"
         }
       }
@@ -8276,12 +7236,9 @@
       "guess": "whelp",
       "result": {
         "0,0,0,0,0": {
-          "guess": "rebut",
+          "guess": "frisk",
           "result": {
-            "1,0,0,0,0": {
-              "guess": "frisk"
-            },
-            "1,0,1,0,0": {
+            "0,2,2,2,2": {
               "guess": "brisk"
             }
           }
@@ -8301,45 +7258,39 @@
       "guess": "crowd",
       "result": {
         "0,1,0,0,0": {
-          "guess": "unmet",
+          "guess": "apart",
           "result": {
-            "0,0,0,0,1": {
-              "guess": "altar"
+            "0,0,2,2,0": {
+              "guess": "quark"
             },
-            "0,0,0,0,2": {
-              "guess": "apart"
+            "0,0,2,2,2": {
+              "guess": "quart"
             },
-            "0,0,1,0,0": {
-              "guess": "alarm"
-            },
-            "0,2,0,0,0": {
-              "guess": "angry"
-            },
-            "1,0,0,0,0": {
-              "guess": "cigar",
+            "1,0,1,1,0": {
+              "guess": "mural",
               "result": {
-                "0,0,0,1,1": {
-                  "guess": "quark"
-                },
-                "0,0,2,1,2": {
-                  "guess": "augur"
+                "0,2,1,2,1": {
+                  "guess": "lunar"
                 }
               }
             },
-            "1,0,0,0,2": {
-              "guess": "quart"
+            "1,0,1,2,0": {
+              "guess": "umbra"
             },
-            "1,0,1,0,0": {
-              "guess": "mural"
-            },
-            "1,1,0,0,0": {
-              "guess": "lunar"
-            },
-            "2,0,0,0,1": {
+            "1,0,1,2,1": {
               "guess": "ultra"
             },
-            "2,0,1,0,0": {
-              "guess": "umbra"
+            "2,0,0,1,0": {
+              "guess": "augur"
+            },
+            "2,0,0,2,0": {
+              "guess": "angry"
+            },
+            "2,0,1,1,1": {
+              "guess": "altar"
+            },
+            "2,0,2,2,0": {
+              "guess": "alarm"
             }
           }
         },
@@ -8356,63 +7307,51 @@
           "guess": "award"
         },
         "0,1,1,0,0": {
-          "guess": "spray",
+          "guess": "polar",
           "result": {
-            "0,0,1,1,0": {
-              "guess": "abhor"
-            },
-            "0,0,1,1,2": {
+            "0,1,0,1,1": {
               "guess": "ovary"
             },
-            "0,0,1,2,0": {
-              "guess": "molar"
+            "0,1,0,1,2": {
+              "guess": "abhor"
             },
-            "0,0,2,1,0": {
+            "0,2,0,1,1": {
               "guess": "aorta"
             },
-            "0,0,2,2,0": {
-              "guess": "rebut",
+            "0,2,0,2,1": {
+              "guess": "borax",
               "result": {
-                "1,0,0,0,0": {
-                  "guess": "moral"
-                },
-                "1,0,1,0,0": {
-                  "guess": "borax"
+                "0,2,2,2,0": {
+                  "guess": "foray"
                 }
               }
             },
-            "0,0,2,2,2": {
-              "guess": "foray"
+            "0,2,1,2,1": {
+              "guess": "moral"
             },
-            "0,1,1,2,0": {
-              "guess": "polar"
+            "0,2,2,2,2": {
+              "guess": "molar"
             },
-            "0,2,2,1,0": {
+            "1,1,0,1,1": {
               "guess": "apron"
             }
           }
         },
         "0,1,1,0,2": {
-          "guess": "rebut",
+          "guess": "board",
           "result": {
-            "1,0,0,0,0": {
+            "0,2,2,2,2": {
               "guess": "hoard"
-            },
-            "1,0,1,0,0": {
-              "guess": "board"
             }
           }
         },
         "0,1,2,0,0": {
-          "guess": "awake",
+          "guess": "flora",
           "result": {
-            "1,0,1,0,0": {
-              "guess": "flora"
-            },
-            "2,0,0,0,0": {
+            "0,0,2,2,1": {
               "guess": "abort"
             },
-            "2,0,1,0,0": {
+            "0,0,2,2,2": {
               "guess": "agora"
             }
           }
@@ -8467,15 +7406,12 @@
           }
         },
         "0,2,0,0,2": {
-          "guess": "rebut",
+          "guess": "grand",
           "result": {
-            "1,0,0,0,0": {
-              "guess": "grand"
-            },
-            "1,0,0,2,0": {
+            "0,2,2,0,2": {
               "guess": "fraud"
             },
-            "1,0,1,0,0": {
+            "0,2,2,2,2": {
               "guess": "brand"
             }
           }
@@ -8484,47 +7420,38 @@
           "guess": "wrath"
         },
         "0,2,0,2,0": {
-          "guess": "blush",
+          "guess": "brawl",
           "result": {
-            "0,0,0,0,0": {
+            "0,2,2,2,0": {
               "guess": "prawn"
             },
-            "0,1,0,0,0": {
+            "0,2,2,2,2": {
               "guess": "trawl"
             },
-            "2,0,0,0,0": {
+            "2,2,2,2,0": {
               "guess": "brawn"
-            },
-            "2,1,0,0,0": {
-              "guess": "brawl"
             }
           }
         },
         "0,2,0,2,1": {
-          "guess": "blush",
+          "guess": "drawn",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "drawn"
-            },
-            "0,1,0,0,0": {
+            "2,2,2,2,0": {
               "guess": "drawl"
             }
           }
         },
         "0,2,1,0,0": {
-          "guess": "bench",
+          "guess": "arbor",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "armor"
-            },
-            "0,0,1,0,0": {
+            "1,2,0,1,0": {
               "guess": "organ"
             },
-            "1,0,0,0,0": {
-              "guess": "arbor"
-            },
-            "2,0,0,0,0": {
+            "1,2,1,1,0": {
               "guess": "bravo"
+            },
+            "2,2,0,2,2": {
+              "guess": "armor"
             }
           }
         },
@@ -8535,13 +7462,10 @@
           "guess": "arrow"
         },
         "0,2,2,0,0": {
-          "guess": "cigar",
+          "guess": "groan",
           "result": {
-            "0,0,0,1,1": {
+            "0,2,2,1,0": {
               "guess": "aroma"
-            },
-            "0,0,1,2,1": {
-              "guess": "groan"
             }
           }
         },
@@ -8555,13 +7479,10 @@
           "guess": "acorn"
         },
         "1,2,0,0,0": {
-          "guess": "rebut",
+          "guess": "tract",
           "result": {
-            "1,0,0,0,1": {
+            "2,2,2,2,0": {
               "guess": "track"
-            },
-            "1,0,0,0,2": {
-              "guess": "tract"
             }
           }
         },
@@ -8569,13 +7490,10 @@
           "guess": "wrack"
         },
         "2,1,0,0,0": {
-          "guess": "rebut",
+          "guess": "chart",
           "result": {
-            "1,0,0,0,0": {
+            "2,2,2,2,0": {
               "guess": "charm"
-            },
-            "1,0,0,0,2": {
-              "guess": "chart"
             }
           }
         },
@@ -8583,12 +7501,9 @@
           "guess": "chard"
         },
         "2,1,1,0,0": {
-          "guess": "cigar",
+          "guess": "cobra",
           "result": {
-            "2,0,0,1,1": {
-              "guess": "cobra"
-            },
-            "2,0,0,2,1": {
+            "2,2,0,1,1": {
               "guess": "coral"
             }
           }
@@ -8625,36 +7540,30 @@
       "guess": "bleat",
       "result": {
         "0,0,1,1,0": {
-          "guess": "dwarf",
+          "guess": "weary",
           "result": {
-            "0,0,1,1,0": {
+            "0,1,1,1,0": {
               "guess": "anger"
             },
-            "0,0,2,2,0": {
-              "guess": "yearn"
-            },
-            "0,1,2,2,0": {
-              "guess": "weary"
-            },
-            "1,0,2,2,0": {
+            "0,2,2,2,0": {
               "guess": "heard"
+            },
+            "0,2,2,2,1": {
+              "guess": "yearn"
             }
           }
         },
         "0,0,1,1,1": {
-          "guess": "marry",
+          "guess": "extra",
           "result": {
-            "0,1,0,2,0": {
-              "guess": "extra"
-            },
-            "0,1,0,2,2": {
+            "1,0,1,2,1": {
               "guess": "teary"
             },
-            "0,1,1,1,0": {
-              "guess": "after"
-            },
-            "0,1,2,2,0": {
+            "1,0,1,2,2": {
               "guess": "terra"
+            },
+            "1,0,2,1,1": {
+              "guess": "after"
             }
           }
         },
@@ -8665,13 +7574,10 @@
           "guess": "cedar"
         },
         "0,0,2,1,0": {
-          "guess": "humph",
+          "guess": "opera",
           "result": {
-            "0,0,0,0,0": {
+            "0,0,2,1,2": {
               "guess": "arena"
-            },
-            "0,0,0,1,0": {
-              "guess": "opera"
             }
           }
         },
@@ -8682,12 +7588,9 @@
           "guess": "flick",
           "result": {
             "0,0,0,0,0": {
-              "guess": "humph",
+              "guess": "dread",
               "result": {
-                "0,0,0,0,0": {
-                  "guess": "dread"
-                },
-                "0,0,1,0,0": {
+                "2,2,2,2,0": {
                   "guess": "dream"
                 }
               }
@@ -8710,23 +7613,17 @@
           "guess": "tread"
         },
         "0,0,2,2,2": {
-          "guess": "cigar",
+          "guess": "treat",
           "result": {
-            "0,0,0,2,1": {
-              "guess": "treat"
-            },
-            "0,0,1,2,1": {
+            "0,2,2,2,2": {
               "guess": "great"
             }
           }
         },
         "0,1,1,1,0": {
-          "guess": "humph",
+          "guess": "learn",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "learn"
-            },
-            "0,0,0,1,0": {
+            "1,2,2,2,0": {
               "guess": "pearl"
             }
           }
@@ -8744,13 +7641,10 @@
           "guess": "clear"
         },
         "1,0,1,1,0": {
-          "guess": "cigar",
+          "guess": "amber",
           "result": {
-            "0,0,0,1,1": {
+            "1,0,2,1,1": {
               "guess": "zebra"
-            },
-            "0,0,0,1,2": {
-              "guess": "amber"
             }
           }
         },
@@ -8761,12 +7655,9 @@
           "guess": "beard"
         },
         "2,0,2,2,0": {
-          "guess": "awake",
+          "guess": "bread",
           "result": {
-            "1,0,1,0,1": {
-              "guess": "bread"
-            },
-            "1,0,1,1,1": {
+            "2,2,2,2,0": {
               "guess": "break"
             }
           }
@@ -8777,16 +7668,13 @@
       "guess": "track",
       "result": {
         "0,1,1,0,0": {
-          "guess": "evade",
+          "guess": "adore",
           "result": {
-            "0,0,1,0,2": {
-              "guess": "azure"
-            },
-            "0,0,1,1,2": {
-              "guess": "adore"
-            },
-            "1,0,1,0,2": {
+            "2,0,0,1,2": {
               "guess": "agree"
+            },
+            "2,0,0,2,2": {
+              "guess": "azure"
             }
           }
         },
@@ -8814,23 +7702,17 @@
           "guess": "pudgy",
           "result": {
             "0,0,0,0,0": {
-              "guess": "rebut",
+              "guess": "brave",
               "result": {
-                "1,1,0,0,0": {
+                "0,2,2,0,2": {
                   "guess": "frame"
-                },
-                "1,1,1,0,0": {
-                  "guess": "brave"
                 }
               }
             },
             "0,0,0,1,0": {
-              "guess": "evade",
+              "guess": "graze",
               "result": {
-                "0,0,2,0,2": {
-                  "guess": "graze"
-                },
-                "0,1,2,0,2": {
+                "2,2,2,0,2": {
                   "guess": "grave"
                 }
               }
@@ -8847,12 +7729,9 @@
           }
         },
         "0,2,2,0,1": {
-          "guess": "rebut",
+          "guess": "drake",
           "result": {
-            "1,1,0,0,0": {
-              "guess": "drake"
-            },
-            "1,1,1,0,0": {
+            "0,2,2,2,2": {
               "guess": "brake"
             }
           }
@@ -8872,12 +7751,9 @@
           }
         },
         "0,2,2,2,0": {
-          "guess": "cigar",
+          "guess": "brace",
           "result": {
-            "1,0,0,1,1": {
-              "guess": "brace"
-            },
-            "1,0,1,1,1": {
+            "0,2,2,2,2": {
               "guess": "grace"
             }
           }
@@ -8900,16 +7776,13 @@
       "guess": "chant",
       "result": {
         "0,0,1,0,0": {
-          "guess": "cigar",
+          "guess": "sugar",
           "result": {
-            "0,0,0,2,1": {
+            "2,0,0,2,1": {
               "guess": "spray"
             },
-            "0,0,0,2,2": {
+            "2,0,0,2,2": {
               "guess": "solar"
-            },
-            "0,0,2,2,2": {
-              "guess": "sugar"
             }
           }
         },
@@ -8928,23 +7801,17 @@
           }
         },
         "0,0,1,1,0": {
-          "guess": "cigar",
+          "guess": "sonar",
           "result": {
-            "0,0,0,1,1": {
+            "1,1,1,1,1": {
               "guess": "arson"
-            },
-            "0,0,0,2,2": {
-              "guess": "sonar"
             }
           }
         },
         "0,0,2,0,0": {
-          "guess": "humph",
+          "guess": "spark",
           "result": {
-            "0,0,0,1,0": {
-              "guess": "spark"
-            },
-            "0,0,1,0,0": {
+            "2,0,2,2,0": {
               "guess": "swarm"
             }
           }
@@ -8953,13 +7820,10 @@
           "guess": "stark"
         },
         "0,0,2,0,2": {
-          "guess": "humph",
+          "guess": "smart",
           "result": {
-            "0,0,0,0,0": {
+            "2,0,2,2,2": {
               "guess": "start"
-            },
-            "0,0,1,0,0": {
-              "guess": "smart"
             }
           }
         },
@@ -8981,24 +7845,18 @@
           }
         },
         "1,0,1,0,0": {
-          "guess": "humph",
+          "guess": "scram",
           "result": {
-            "0,0,0,1,0": {
+            "2,2,2,2,0": {
               "guess": "scrap"
-            },
-            "0,0,1,0,0": {
-              "guess": "scram"
             }
           }
         },
         "1,0,2,0,0": {
-          "guess": "sissy",
+          "guess": "scary",
           "result": {
-            "2,0,0,0,0": {
+            "2,2,2,2,0": {
               "guess": "scarf"
-            },
-            "2,0,0,0,2": {
-              "guess": "scary"
             }
           }
         }
@@ -9045,12 +7903,9 @@
       "guess": "butch",
       "result": {
         "0,0,0,0,0": {
-          "guess": "sissy",
+          "guess": "grasp",
           "result": {
-            "0,0,0,2,0": {
-              "guess": "grasp"
-            },
-            "1,0,1,2,0": {
+            "2,2,2,2,0": {
               "guess": "grass"
             }
           }
@@ -9076,12 +7931,9 @@
       }
     },
     "1,1,0,2,2": {
-      "guess": "awake",
+      "guess": "erase",
       "result": {
-        "0,0,2,0,2": {
-          "guess": "erase"
-        },
-        "2,0,0,0,2": {
+        "0,2,1,2,2": {
           "guess": "arose"
         }
       }
@@ -9090,13 +7942,10 @@
       "guess": "gland",
       "result": {
         "0,0,1,0,0": {
-          "guess": "cigar",
+          "guess": "circa",
           "result": {
-            "1,2,0,2,2": {
+            "1,2,1,1,1": {
               "guess": "vicar"
-            },
-            "2,2,0,1,1": {
-              "guess": "circa"
             }
           }
         },
@@ -9104,16 +7953,13 @@
           "guess": "acrid"
         },
         "0,0,2,0,0": {
-          "guess": "cigar",
+          "guess": "chair",
           "result": {
-            "0,1,0,1,1": {
-              "guess": "trait"
-            },
-            "0,2,0,1,1": {
+            "0,0,2,1,1": {
               "guess": "tiara"
             },
-            "2,1,0,1,2": {
-              "guess": "chair"
+            "0,0,2,2,1": {
+              "guess": "trait"
             }
           }
         },
@@ -9124,13 +7970,10 @@
           "guess": "braid"
         },
         "0,0,2,1,0": {
-          "guess": "rebut",
+          "guess": "brain",
           "result": {
-            "1,0,0,0,1": {
+            "0,2,2,2,2": {
               "guess": "train"
-            },
-            "1,0,1,0,0": {
-              "guess": "brain"
             }
           }
         },
@@ -9141,13 +7984,10 @@
           "guess": "viral"
         },
         "0,1,2,0,0": {
-          "guess": "rebut",
+          "guess": "trail",
           "result": {
-            "1,0,0,0,0": {
+            "0,2,2,2,2": {
               "guess": "frail"
-            },
-            "1,0,0,0,1": {
-              "guess": "trail"
             }
           }
         },
@@ -9201,39 +8041,33 @@
       "guess": "tempo",
       "result": {
         "0,0,0,0,0": {
-          "guess": "dutch",
+          "guess": "hardy",
           "result": {
-            "0,0,0,0,0": {
+            "0,2,2,0,0": {
               "guess": "larva"
             },
-            "0,0,0,0,1": {
-              "guess": "harry"
-            },
-            "0,0,0,1,0": {
+            "0,2,2,0,2": {
               "guess": "carry"
             },
-            "1,0,0,0,1": {
-              "guess": "hardy"
+            "2,2,2,0,2": {
+              "guess": "harry"
             }
           }
         },
         "0,0,0,0,1": {
-          "guess": "naval",
+          "guess": "valor",
           "result": {
-            "0,2,0,0,1": {
-              "guess": "labor"
+            "0,2,0,2,1": {
+              "guess": "baron"
             },
-            "0,2,0,0,2": {
+            "0,2,1,2,1": {
               "guess": "carol"
             },
-            "0,2,1,0,1": {
-              "guess": "valor"
+            "0,2,1,2,2": {
+              "guess": "labor"
             },
-            "0,2,2,0,0": {
+            "1,2,0,2,2": {
               "guess": "favor"
-            },
-            "1,2,0,0,0": {
-              "guess": "baron"
             }
           }
         },
@@ -9241,12 +8075,9 @@
           "guess": "cargo"
         },
         "0,0,0,1,0": {
-          "guess": "sissy",
+          "guess": "parka",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "parka"
-            },
-            "0,0,0,0,2": {
+            "2,2,2,0,0": {
               "guess": "parry"
             }
           }
@@ -9258,13 +8089,13 @@
           "guess": "harpy"
         },
         "0,0,1,0,0": {
-          "guess": "marry",
+          "guess": "march",
           "result": {
             "1,2,2,0,0": {
               "guess": "karma"
             },
             "2,2,2,0,0": {
-              "guess": "march"
+              "guess": "marry"
             }
           }
         },
@@ -9286,13 +8117,10 @@
           "guess": "macro"
         },
         "1,0,0,0,0": {
-          "guess": "cigar",
+          "guess": "carat",
           "result": {
-            "0,0,0,1,1": {
+            "0,2,2,0,1": {
               "guess": "warty"
-            },
-            "2,0,0,2,1": {
-              "guess": "carat"
             }
           }
         },
@@ -9320,13 +8148,10 @@
               "guess": "baler"
             },
             "0,1,0,1,0": {
-              "guess": "focal",
+              "guess": "wafer",
               "result": {
-                "0,0,0,1,0": {
+                "2,2,0,2,2": {
                   "guess": "waver"
-                },
-                "1,0,0,1,0": {
-                  "guess": "wafer"
                 }
               }
             },
@@ -9342,13 +8167,10 @@
           }
         },
         "1,0,0,0,1": {
-          "guess": "cigar",
+          "guess": "gayer",
           "result": {
-            "0,0,0,1,2": {
+            "0,2,2,2,2": {
               "guess": "layer"
-            },
-            "0,0,1,1,2": {
-              "guess": "gayer"
             }
           }
         },
@@ -9373,13 +8195,10 @@
           }
         },
         "1,0,1,0,0": {
-          "guess": "blush",
+          "guess": "paler",
           "result": {
-            "0,0,0,0,0": {
+            "2,2,0,2,2": {
               "guess": "parer"
-            },
-            "0,1,0,0,0": {
-              "guess": "paler"
             }
           }
         },
@@ -9387,13 +8206,10 @@
           "guess": "payer"
         },
         "1,0,2,0,0": {
-          "guess": "cigar",
+          "guess": "caper",
           "result": {
-            "0,0,0,1,2": {
+            "0,2,2,2,2": {
               "guess": "paper"
-            },
-            "2,0,0,1,2": {
-              "guess": "caper"
             }
           }
         },
@@ -9401,15 +8217,12 @@
           "guess": "taper"
         },
         "1,1,0,0,0": {
-          "guess": "cigar",
+          "guess": "maker",
           "result": {
-            "0,0,0,1,1": {
+            "1,2,0,2,1": {
               "guess": "harem"
             },
-            "0,0,0,1,2": {
-              "guess": "maker"
-            },
-            "0,0,1,1,2": {
+            "1,2,0,2,2": {
               "guess": "gamer"
             }
           }
@@ -9449,35 +8262,26 @@
       }
     },
     "1,2,0,1,0": {
-      "guess": "rebut",
+      "guess": "satyr",
       "result": {
-        "1,0,0,0,0": {
+        "2,2,0,0,2": {
           "guess": "savor"
-        },
-        "1,0,0,0,1": {
-          "guess": "satyr"
         }
       }
     },
     "1,2,0,1,1": {
-      "guess": "focal",
+      "guess": "saner",
       "result": {
-        "0,0,0,1,0": {
-          "guess": "saner"
-        },
-        "1,0,0,1,0": {
+        "2,2,0,2,2": {
           "guess": "safer"
         }
       }
     },
     "1,2,0,2,0": {
-      "guess": "humph",
+      "guess": "harsh",
       "result": {
-        "0,0,1,0,2": {
+        "0,2,2,2,2": {
           "guess": "marsh"
-        },
-        "2,0,0,0,2": {
-          "guess": "harsh"
         }
       }
     },
@@ -9485,12 +8289,9 @@
       "guess": "parse"
     },
     "1,2,1,0,0": {
-      "guess": "rebut",
+      "guess": "nadir",
       "result": {
-        "1,0,0,0,0": {
-          "guess": "nadir"
-        },
-        "1,0,0,0,1": {
+        "0,2,0,2,2": {
           "guess": "tapir"
         }
       }
@@ -9522,13 +8323,10 @@
           "guess": "ruddy"
         },
         "1,0,0,0,1": {
-          "guess": "cigar",
+          "guess": "rocky",
           "result": {
-            "0,0,0,0,1": {
+            "2,2,0,0,2": {
               "guess": "roomy"
-            },
-            "1,0,0,0,1": {
-              "guess": "rocky"
             }
           }
         },
@@ -9556,15 +8354,12 @@
       "guess": "could",
       "result": {
         "0,0,0,0,0": {
-          "guess": "dwarf",
+          "guess": "refer",
           "result": {
-            "0,0,0,1,1": {
-              "guess": "refer"
-            },
-            "0,0,0,2,0": {
+            "2,2,0,0,1": {
               "guess": "retry"
             },
-            "0,1,0,1,0": {
+            "2,2,0,2,0": {
               "guess": "renew"
             }
           }
@@ -9590,10 +8385,10 @@
           "guess": "reply"
         },
         "0,0,1,0,0": {
-          "guess": "rebut",
+          "guess": "rerun",
           "result": {
             "2,2,0,2,0": {
-              "guess": "rerun"
+              "guess": "rebut"
             }
           }
         },
@@ -9627,38 +8422,32 @@
           "guess": "retch"
         },
         "1,0,1,0,0": {
-          "guess": "cigar",
+          "guess": "recur",
           "result": {
-            "1,0,0,0,1": {
+            "2,2,2,2,0": {
               "guess": "recut"
-            },
-            "1,0,0,0,2": {
-              "guess": "recur"
             }
           }
         }
       }
     },
     "2,0,0,0,2": {
-      "guess": "stout",
+      "guess": "rogue",
       "result": {
-        "0,0,0,0,0": {
+        "2,0,0,0,2": {
           "guess": "rhyme"
         },
-        "0,0,0,1,0": {
+        "2,0,0,1,2": {
           "guess": "rupee"
         },
-        "0,0,0,2,0": {
+        "2,0,0,2,2": {
           "guess": "revue"
         },
-        "0,0,1,1,0": {
-          "guess": "rouge"
-        },
-        "0,0,1,2,0": {
-          "guess": "rogue"
-        },
-        "0,1,1,1,1": {
+        "2,2,0,1,2": {
           "guess": "route"
+        },
+        "2,2,1,1,2": {
+          "guess": "rouge"
         }
       }
     },
@@ -9666,12 +8455,9 @@
       "guess": "rusty"
     },
     "2,0,0,1,1": {
-      "guess": "rebut",
+      "guess": "reset",
       "result": {
-        "2,2,0,0,2": {
-          "guess": "reset"
-        },
-        "2,2,2,2,0": {
+        "2,2,1,0,0": {
           "guess": "rebus"
         }
       }
@@ -9680,30 +8466,24 @@
       "guess": "roost"
     },
     "2,0,0,2,2": {
-      "guess": "rebut",
+      "guess": "reuse",
       "result": {
-        "2,1,0,1,0": {
+        "2,0,2,2,2": {
           "guess": "rouse"
-        },
-        "2,2,0,1,0": {
-          "guess": "reuse"
         }
       }
     },
     "2,0,1,0,0": {
-      "guess": "model",
+      "guess": "robin",
       "result": {
-        "0,0,0,0,0": {
+        "2,0,0,1,0": {
           "guess": "right"
         },
-        "0,0,1,0,0": {
+        "2,0,0,2,0": {
           "guess": "rigid"
         },
-        "0,1,0,0,0": {
+        "2,1,0,1,0": {
           "guess": "rigor"
-        },
-        "0,2,0,0,0": {
-          "guess": "robin"
         }
       }
     },
@@ -9711,12 +8491,9 @@
       "guess": "tapir",
       "result": {
         "0,0,0,1,2": {
-          "guess": "evade",
+          "guess": "rider",
           "result": {
-            "1,0,0,1,1": {
-              "guess": "rider"
-            },
-            "1,1,0,0,1": {
+            "2,2,0,2,2": {
               "guess": "river"
             }
           }
@@ -9734,12 +8511,9 @@
           "guess": "rivet"
         },
         "1,0,0,2,1": {
-          "guess": "humph",
+          "guess": "refit",
           "result": {
-            "0,0,0,0,0": {
-              "guess": "refit"
-            },
-            "0,0,2,0,0": {
+            "2,2,0,2,2": {
               "guess": "remit"
             }
           }
@@ -9747,13 +8521,10 @@
       }
     },
     "2,0,1,0,2": {
-      "guess": "cigar",
+      "guess": "ridge",
       "result": {
-        "0,2,0,0,1": {
+        "2,2,0,0,2": {
           "guess": "rifle"
-        },
-        "0,2,1,0,1": {
-          "guess": "ridge"
         }
       }
     },
@@ -9761,16 +8532,13 @@
       "guess": "risky"
     },
     "2,0,1,1,1": {
-      "guess": "cigar",
+      "guess": "riser",
       "result": {
-        "0,1,0,0,1": {
+        "2,1,2,1,0": {
           "guess": "resin"
         },
-        "0,2,0,0,1": {
+        "2,2,2,2,0": {
           "guess": "risen"
-        },
-        "0,2,0,0,2": {
-          "guess": "riser"
         }
       }
     },
@@ -9784,18 +8552,15 @@
       "guess": "reign"
     },
     "2,1,0,0,0": {
-      "guess": "humph",
+      "guess": "rural",
       "result": {
-        "0,0,0,0,0": {
-          "guess": "royal"
-        },
-        "0,0,0,0,2": {
+        "2,0,0,1,0": {
           "guess": "roach"
         },
-        "0,2,0,0,0": {
-          "guess": "rural"
+        "2,0,0,2,2": {
+          "guess": "royal"
         },
-        "0,2,2,0,0": {
+        "2,2,0,1,0": {
           "guess": "rumba"
         }
       }
@@ -9804,12 +8569,9 @@
       "guess": "lymph",
       "result": {
         "0,0,0,0,0": {
-          "guess": "cigar",
+          "guess": "rebar",
           "result": {
-            "0,0,0,2,2": {
-              "guess": "rebar"
-            },
-            "1,0,0,1,1": {
+            "2,2,0,1,0": {
               "guess": "react"
             }
           }
@@ -9833,16 +8595,13 @@
           "guess": "repay"
         },
         "1,0,0,0,0": {
-          "guess": "naval",
+          "guess": "renal",
           "result": {
-            "0,0,0,2,1": {
+            "2,2,0,2,1": {
               "guess": "relax"
             },
-            "0,0,0,2,2": {
+            "2,2,0,2,2": {
               "guess": "regal"
-            },
-            "1,0,0,2,2": {
-              "guess": "renal"
             }
           }
         },
@@ -9864,13 +8623,10 @@
       "guess": "today",
       "result": {
         "0,0,0,1,0": {
-          "guess": "cigar",
+          "guess": "ranch",
           "result": {
-            "0,0,0,1,1": {
+            "2,2,0,0,2": {
               "guess": "ralph"
-            },
-            "1,0,0,1,1": {
-              "guess": "ranch"
             }
           }
         },

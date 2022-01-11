@@ -1,7 +1,7 @@
 # wordle-solver: a nearly-optimal computer player for Wordle
 
 [Wordle](https://www.powerlanguage.co.uk/wordle/) is an interesting word
-guessing game. This program plays it very well, taking only 3.68 guesses on
+guessing game. This program plays it very well, taking only 3.51 guesses on
 average and never more than 5.
 
  * words.txt - contains every word that Wordle uses as a possible solution, as
