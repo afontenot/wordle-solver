@@ -67,6 +67,8 @@ def guess(possibles, printprogress=False):
         if score > bestscore:
             bestscore = score
             bestword = guess
+        elif score == bestscore and guess in possibles:
+            bestword = guess
 
     return bestword
 
